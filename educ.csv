@@ -1,0 +1,782 @@
+person,personid,edu_id,educ,country,pesantren_madrasah,military_police
+Ali Sastroamidjojo,Q2669326,Q156598,Leiden University,Netherlands,F,F
+AA Maramis,Q12682432,Q156598,Leiden University,Netherlands,F,F
+Susanto Tirtoprodjo,Q6723714,Q156598,Leiden University,Netherlands,F,F
+R. Syamsudin,Q17410975,Q156598,Leiden University,Netherlands,F,F
+Teuku Muhammad Hasan,Q4259946,Q156598,Leiden University,Netherlands,F,F
+Prijono,Q4378323,Q156598,Leiden University,Netherlands,F,F
+Mohammad Ichsan,Q120203830,Q156598,Leiden University,Netherlands,F,F
+Sartono,Q9333940,Q156598,Leiden University,Netherlands,F,F
+Sudjono Djuned Pusponegoro,Q19723944,Q156598,Leiden University,Netherlands,F,F
+Assaat,Q4808308,Q156598,Leiden University,Netherlands,F,F
+Nasaruddin Umar,Q6966619,Q156598,Leiden University,Netherlands,F,F
+Achmad Soebardjo,Q4250968,Q156598,Leiden University,Netherlands,F,F
+Soepomo,Q4201183,Q156598,Leiden University,Netherlands,F,F
+Abdulmadjid Djojoadiningrat,Q61119002,Q156598,Leiden University,Netherlands,F,F
+Sutan Muhammad Zain,Q19749281,Q156598,Leiden University,Netherlands,F,F
+Nazir Datuk Pamoentjak,Q12500218,Q156598,Leiden University,Netherlands,F,F
+Ferdinand Lumban Tobing,Q11188587,Q1934491,STOVIA (School for the Training of Native Doctors),Indonesia (Dutch),F,F
+J. Leimena,Q2642883,Q1934491,STOVIA (School for the Training of Native Doctors),Indonesia (Dutch),F,F
+Kasman Singodimedjo,Q16187634,Q1934491,STOVIA (School for the Training of Native Doctors),Indonesia (Dutch),F,F
+Bahder Djohan,Q4842524,Q1934491,STOVIA (School for the Training of Native Doctors),Indonesia (Dutch),F,F
+Lanjumin Dt. Tumangguang,Q19728278,Q1934491,STOVIA (School for the Training of Native Doctors),Indonesia (Dutch),F,F
+Abdul Moeloek,Q19737572,Q1934491,STOVIA (School for the Training of Native Doctors),Indonesia (Dutch),F,F
+Hazairin,Q11168814,Q19752649,Rechtshoogeschool te Batavia (Batavia Law School),Indonesia (Dutch),F,F
+Mohammad Yamin,Q3503054,Q19752649,Rechtshoogeschool te Batavia (Batavia Law School),Indonesia (Dutch),F,F
+Moeljatno,Q6890147,Q19752649,Rechtshoogeschool te Batavia (Batavia Law School),Indonesia (Dutch),F,F
+Ide Anak Agung Gde Agung,Q981536,Q19752649,Rechtshoogeschool te Batavia (Batavia Law School),Indonesia (Dutch),F,F
+Soemarno (ekonom),Q19752816,Q19752649,Rechtshoogeschool te Batavia (Batavia Law School),Indonesia (Dutch),F,F
+Joko Widodo,Q3318231,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Oemar Seno Adji,Q12501175,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+P.C. Harjasudirdja,Q25463109,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Rusiah Sardjono,Q12509201,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Ben Mang Reng Say,Q4886112,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Bambang Kesowo,Q12473890,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Boediono,Q76362,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Manuel Kaisiepo,Q12496803,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Mohamad Prakosa,Q12498747,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Soenarno,Q12515766,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Ali Ghufron Mukti,Q12471480,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Andi Alfian Mallarangeng,Q11093005,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Djoko Kirmanto,Q11182889,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Fadel Muhammad,Q5429207,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Gusti Muhammad Hatta,Q12484988,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Muhaimin Iskandar,Q12499327,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Patrialis Akbar,Q5247076,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Roy Suryo,Q9019254,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Wiendu Nuryanti,Q12524514,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Abdul Rahman Saleh (jaksa),Q4665652,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Bambang Sudibyo,Q11120678,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Siti Fadilah,Q3118591,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Soegiharto,Q17411404,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Taufik Effendy,Q13097776,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Airlangga Hartarto,Q12471140,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Basuki Hadimuljono,Q18421298,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Budi Karya Sumadi,Q28723650,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Edward Omar Sharif Hiariej,Q49248421,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Karier Joko Widodo sebagai Gubernur DKI Jakarta,Q19745980,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Karier Joko Widodo sebagai Wali Kota Surakarta,Q19745981,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Mahfud MD,Q6892160,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Muhadjir Effendy,Q26236935,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Nezar Patria,Q85993228,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Pramono Anung,Q12506342,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Pratikno,Q12506406,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Retno Marsudi,Q18342668,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Terawan Agus Putranto,Q72040942,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Anies Baswedan,Q4263230,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Idrus Marham,Q16773556,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Mardiasmo,Q19728875,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Mohamad Nasir,Q18421366,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Herman Johannes,Q12485593,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Sunawar Sukowati,Q24284586,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Lasiyah Soetanto,Q12494020,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Soedarsono Hadisapoetro,Q7553479,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Nani Soedarsono,Q12500067,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Wardojo,Q14015234,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Adrianus Mooy,Q12470772,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Akbar Tanjung,Q2581168,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Saadillah Mursjid,Q12511367,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Soedradjad Djiwandono,Q6107118,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Djamaloedin Soeryohadikoesoemo,Q18421443,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Haryono Suyono,Q12485379,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Syahril Sabirin,Q7659442,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Fuad Bawazier,Q12483133,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Sumahadi,Q18421437,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Amien Rais,Q2202270,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Bondan Gunawan,Q14262152,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Mahadi Sinambela,Q12496084,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Marzuki Usman,Q12497198,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Muhammad A.S. Hikam,Q16181301,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Yahya Muhaimin,Q4250945,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Hasan Basri Durin,Q12485387,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Anwar Usman,Q24261467,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Andi Rizal Mallarangeng,Q7339075,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Andika Pandu Puragabaya,Q85988763,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Erina Sofia Gudono,Q115677770,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Hanindhito Himawan Pramana,Q107564265,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Yahya Cholil Staquf,Q110252319,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Fery Farhati,Q97221150,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Helmi Johannes,Q12485527,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Ahmad Hanafi Rais,Q16164615,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Hanum Salsabiela Rais,Q7347498,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Mansyurdin Arma,Q112601366,Q1145992,Gadjah Mada University (UGM),Indonesia,F,F
+Ma'ruf Amin,Q12497177,Q19744776,Ibn Khaldun University Bogor,Indonesia,F,F
+Ma'ruf Amin,Q12497177,Q12523331,Ibnu Chaldun University,Indonesia,F,F
+Zainut Tauhid Sa'adi,Q17411758,Q12523331,Ibnu Chaldun University,Indonesia,F,F
+Ma'ruf Amin,Q12497177,Q12506153,Pondok Pesantren Tebuireng,Indonesia,T,F
+Mohammad Hatta,Q29050,Q633529,Erasmus University Rotterdam,Netherlands,F,F
+Sumitro Djojohadikusumo,Q7553510,Q633529,Erasmus University Rotterdam,Netherlands,F,F
+Kwik Kian Gie,Q4201110,Q633529,Erasmus University Rotterdam,Netherlands,F,F
+Kartika Wirjoatmodjo,Q85992025,Q633529,Erasmus University Rotterdam,Netherlands,F,F
+Arifin M Siregar,Q12472462,Q633529,Erasmus University Rotterdam,Netherlands,F,F
+Rachmawati Soekarnoputri,Q12507600,Q12523309,Bung Karno University,Indonesia,F,F
+Rachmawati Soekarnoputri,Q12507600,Q534515,University of Indonesia (UI),Indonesia,F,F
+Siti Hediati Hariyadi,Q12515517,Q534515,University of Indonesia (UI),Indonesia,F,F
+Thoyib Hadiwidjaja,Q12521372,Q534515,University of Indonesia (UI),Indonesia,F,F
+Radius Prawiro,Q7281390,Q534515,University of Indonesia (UI),Indonesia,F,F
+Syarif Thayeb,Q17411574,Q534515,University of Indonesia (UI),Indonesia,F,F
+Achmad Sujudi,Q13091459,Q534515,University of Indonesia (UI),Indonesia,F,F
+Dorodjatun Kuntjoro-Jakti,Q5298156,Q534515,University of Indonesia (UI),Indonesia,F,F
+Hassan Wirajuda,Q183581,Q534515,University of Indonesia (UI),Indonesia,F,F
+Puan Maharani,Q15646541,Q534515,University of Indonesia (UI),Indonesia,F,F
+Sri Redjeki Sumarjoto,Q17411470,Q534515,University of Indonesia (UI),Indonesia,F,F
+Yusril Ihza Mahendra,Q8061915,Q534515,University of Indonesia (UI),Indonesia,F,F
+Agus Martowardojo,Q3498269,Q534515,University of Indonesia (UI),Indonesia,F,F
+Bambang Brodjonegoro,Q16169810,Q534515,University of Indonesia (UI),Indonesia,F,F
+Chairul Tanjung,Q5068119,Q534515,University of Indonesia (UI),Indonesia,F,F
+Dipo Alam,Q12481580,Q534515,University of Indonesia (UI),Indonesia,F,F
+Eko Prasojo,Q16175768,Q534515,University of Indonesia (UI),Indonesia,F,F
+Endang Rahayu Sedyaningsih,Q469616,Q534515,University of Indonesia (UI),Indonesia,F,F
+Jero Wacik,Q4200552,Q534515,University of Indonesia (UI),Indonesia,F,F
+Mahendra Siregar,Q12496110,Q534515,University of Indonesia (UI),Indonesia,F,F
+Muhaimin Iskandar,Q12499327,Q534515,University of Indonesia (UI),Indonesia,F,F
+Muhammad Chatib Basri,Q12499347,Q534515,University of Indonesia (UI),Indonesia,F,F
+Nafsiah Mboi,Q12499835,Q534515,University of Indonesia (UI),Indonesia,F,F
+Nila Djuwita Anfasa Moeloek,Q13095464,Q534515,University of Indonesia (UI),Indonesia,F,F
+Sri Mulyani Indrawati,Q3177708,Q534515,University of Indonesia (UI),Indonesia,F,F
+Suharna Surapranata,Q5247068,Q534515,University of Indonesia (UI),Indonesia,F,F
+Abdul Rahman Saleh (jaksa),Q4665652,Q534515,University of Indonesia (UI),Indonesia,F,F
+Adhyaksa Dault,Q4682572,Q534515,University of Indonesia (UI),Indonesia,F,F
+Fahmi Idris,Q5429568,Q534515,University of Indonesia (UI),Indonesia,F,F
+Juwono Sudarsono,Q3107476,Q534515,University of Indonesia (UI),Indonesia,F,F
+Meuthia Hatta Swasono,Q11081076,Q534515,University of Indonesia (UI),Indonesia,F,F
+Mohammad Andi Mattalatta,Q12498756,Q534515,University of Indonesia (UI),Indonesia,F,F
+Siti Fadilah,Q3118591,Q534515,University of Indonesia (UI),Indonesia,F,F
+Soegiharto,Q17411404,Q534515,University of Indonesia (UI),Indonesia,F,F
+Sofyan Djalil,Q12515797,Q534515,University of Indonesia (UI),Indonesia,F,F
+Abdullah Azwar Anas,Q16162595,Q534515,University of Indonesia (UI),Indonesia,F,F
+Budi Arie Setiadi,Q56416296,Q534515,University of Indonesia (UI),Indonesia,F,F
+Dante Saksono Harbuwono,Q102147956,Q534515,University of Indonesia (UI),Indonesia,F,F
+Dito Ariotedjo,Q65208154,Q534515,University of Indonesia (UI),Indonesia,F,F
+Jerry Sambuaga,Q65212605,Q534515,University of Indonesia (UI),Indonesia,F,F
+Kartika Wirjoatmodjo,Q85992025,Q534515,University of Indonesia (UI),Indonesia,F,F
+Pahala Mansury,Q85993402,Q534515,University of Indonesia (UI),Indonesia,F,F
+Paiman Raharjo,Q120907654,Q534515,University of Indonesia (UI),Indonesia,F,F
+Suahasil Nazara,Q77195503,Q534515,University of Indonesia (UI),Indonesia,F,F
+Andi Widjajanto,Q19745525,Q534515,University of Indonesia (UI),Indonesia,F,F
+Andrinof Chaniago,Q17410461,Q534515,University of Indonesia (UI),Indonesia,F,F
+Darmin Nasution,Q4261409,Q534515,University of Indonesia (UI),Indonesia,F,F
+Khofifah Indar Parawansa,Q12491600,Q534515,University of Indonesia (UI),Indonesia,F,F
+Yuddy Chrisnandi,Q18421258,Q534515,University of Indonesia (UI),Indonesia,F,F
+Emil Salim,Q4187311,Q534515,University of Indonesia (UI),Indonesia,F,F
+Subroto,Q7631933,Q534515,University of Indonesia (UI),Indonesia,F,F
+Widjojo Nitisastro,Q4261785,Q534515,University of Indonesia (UI),Indonesia,F,F
+J.B. Sumarlin,Q11213335,Q534515,University of Indonesia (UI),Indonesia,F,F
+Mochtar Kusumaatmadja,Q4200159,Q534515,University of Indonesia (UI),Indonesia,F,F
+Rachmat Saleh,Q12507599,Q534515,University of Indonesia (UI),Indonesia,F,F
+Abdul Gafur (politikus),Q12470547,Q534515,University of Indonesia (UI),Indonesia,F,F
+Cosmas Batubara,Q5173975,Q534515,University of Indonesia (UI),Indonesia,F,F
+Harun Al-Rasjid Zain,Q12485364,Q534515,University of Indonesia (UI),Indonesia,F,F
+Fuad Hassan (politikus),Q699041,Q534515,University of Indonesia (UI),Indonesia,F,F
+Nugroho Notosusanto,Q2165337,Q534515,University of Indonesia (UI),Indonesia,F,F
+Saleh Afiff,Q14917452,Q534515,University of Indonesia (UI),Indonesia,F,F
+Sulasikin Murpratomo,Q12517288,Q534515,University of Indonesia (UI),Indonesia,F,F
+Adhyatma,Q56399770,Q534515,University of Indonesia (UI),Indonesia,F,F
+Akbar Tanjung,Q2581168,Q534515,University of Indonesia (UI),Indonesia,F,F
+Bernardus Sugiarta Muljana,Q56399783,Q534515,University of Indonesia (UI),Indonesia,F,F
+Haryati Soebadio,Q12485375,Q534515,University of Indonesia (UI),Indonesia,F,F
+Nasrudin Sumintapura,Q56399775,Q534515,University of Indonesia (UI),Indonesia,F,F
+Ibrahim Hasan,Q12486201,Q534515,University of Indonesia (UI),Indonesia,F,F
+Oetojo Oesman,Q12501199,Q534515,University of Indonesia (UI),Indonesia,F,F
+Sujudi,Q17411455,Q534515,University of Indonesia (UI),Indonesia,F,F
+Faried Anfasa Moeloek,Q13092954,Q534515,University of Indonesia (UI),Indonesia,F,F
+M. Rozy Munir,Q7375454,Q534515,University of Indonesia (UI),Indonesia,F,F
+Marsillam Simanjuntak,Q12497146,Q534515,University of Indonesia (UI),Indonesia,F,F
+Hasri Ainun Besari,Q3294779,Q534515,University of Indonesia (UI),Indonesia,F,F
+Gemala Hatta,Q25467900,Q534515,University of Indonesia (UI),Indonesia,F,F
+Halida Hatta,Q12485129,Q534515,University of Indonesia (UI),Indonesia,F,F
+Dian Sastrowardoyo,Q2746623,Q534515,University of Indonesia (UI),Indonesia,F,F
+Indriyanto Seno Adji,Q19733069,Q534515,University of Indonesia (UI),Indonesia,F,F
+Payung Bangun (akademisi),Q119279354,Q534515,University of Indonesia (UI),Indonesia,F,F
+Wahidin Halim,Q17411648,Q534515,University of Indonesia (UI),Indonesia,F,F
+Annisa Pohan,Q7806784,Q534515,University of Indonesia (UI),Indonesia,F,F
+Dave Laksono,Q120202073,Q534515,University of Indonesia (UI),Indonesia,F,F
+Andika Pandu Puragabaya,Q85988763,Q534515,University of Indonesia (UI),Indonesia,F,F
+Ardhya Pratiwi Setiowati,Q96987556,Q534515,University of Indonesia (UI),Indonesia,F,F
+Harley B. Mangindaan,Q25459745,Q534515,University of Indonesia (UI),Indonesia,F,F
+Firdaus Wadjdi,Q56391300,Q534515,University of Indonesia (UI),Indonesia,F,F
+Ben Mboi,Q12475663,Q534515,University of Indonesia (UI),Indonesia,F,F
+Nukman Moeloek,Q20741994,Q534515,University of Indonesia (UI),Indonesia,F,F
+Najwa Shihab,Q4273048,Q534515,University of Indonesia (UI),Indonesia,F,F
+Fahira Idris,Q12482713,Q534515,University of Indonesia (UI),Indonesia,F,F
+Sjahrir (ekonom),Q7659441,Q534515,University of Indonesia (UI),Indonesia,F,F
+Thayeb Mohammad Gobel,Q12521185,Q534515,University of Indonesia (UI),Indonesia,F,F
+Leila Chairani Budiman,Q12494302,Q534515,University of Indonesia (UI),Indonesia,F,F
+Dewi Asmara,Q123337918,Q534515,University of Indonesia (UI),Indonesia,F,F
+Ahmad Nizar Shihab,Q56511458,Q534515,University of Indonesia (UI),Indonesia,F,F
+Najelaa Shihab,Q56416608,Q534515,University of Indonesia (UI),Indonesia,F,F
+Bondan Kanumoyoso,Q123190681,Q534515,University of Indonesia (UI),Indonesia,F,F
+Maia Estianty,Q4349443,Q534515,University of Indonesia (UI),Indonesia,F,F
+Puti Guntur Soekarno,Q12507435,Q534515,University of Indonesia (UI),Indonesia,F,F
+Giri Ramanda Kiemas,Q56399362,Q534515,University of Indonesia (UI),Indonesia,F,F
+Yetty Rizali Noor,Q12525244,Q534515,University of Indonesia (UI),Indonesia,F,F
+Arief Budiman,Q4790355,Q534515,University of Indonesia (UI),Indonesia,F,F
+Ahmad Fikri Assegaf,Q73203653,Q534515,University of Indonesia (UI),Indonesia,F,F
+Miriam Budiardjo,Q12498605,Q534515,University of Indonesia (UI),Indonesia,F,F
+Soe Hok Gie,Q2277434,Q534515,University of Indonesia (UI),Indonesia,F,F
+Roosseno Soerjohadikoesoemo,Q12508921,Q31204378,Technische Hoogeschool te Bandoeng (Bandung Technical High School),Indonesia (Dutch),F,F
+R.M. Suwandi,Q12507525,Q31204378,Technische Hoogeschool te Bandoeng (Bandung Technical High School),Indonesia (Dutch),F,F
+Mananti Sitompul,Q109934104,Q31204378,Technische Hoogeschool te Bandoeng (Bandung Technical High School),Indonesia (Dutch),F,F
+Herman Johannes,Q12485593,Q31204378,Technische Hoogeschool te Bandoeng (Bandung Technical High School),Indonesia (Dutch),F,F
+Martinus Putuhena,Q12497163,Q31204378,Technische Hoogeschool te Bandoeng (Bandung Technical High School),Indonesia (Dutch),F,F
+Gunarso,Q12484310,Q31204378,Technische Hoogeschool te Bandoeng (Bandung Technical High School),Indonesia (Dutch),F,F
+Ukar Bratakusumah,Q17410446,Q31204378,Technische Hoogeschool te Bandoeng (Bandung Technical High School),Indonesia (Dutch),F,F
+Idham Chalid,Q6854752,Q173959,Al-Azhar University,Egypt,F,F
+Muhammad Quraish Shihab,Q55238732,Q173959,Al-Azhar University,Egypt,F,F
+Umar Shihab,Q56524376,Q173959,Al-Azhar University,Egypt,F,F
+Rusli Abdul Wahid,Q12509202,Q116776017,Madrasah Tarbiyah Islamiyah Tabek Gadang,Indonesia,T,F
+Wikana,Q19944523,Q2190504,MULO (Dutch Indies Middle School System),Indonesia (Dutch),F,F
+Awaluddin Djamin,Q4843839,Q19752731,College of Police Science (STIK-PTIK),Indonesia,F,T
+Bugi Supeno,Q119853661,Q19752731,College of Police Science (STIK-PTIK),Indonesia,F,T
+Bambang Hendarso Danuri,Q4260011,Q19752731,College of Police Science (STIK-PTIK),Indonesia,F,T
+Awaluddin Djamin,Q4843839,Q235034,Pittsburgh University,United States,F,F
+Andung A. Nitimiharja,Q12472069,Q235034,Pittsburgh University,United States,F,F
+Awaluddin Djamin,Q4843839,Q4614,University of Southern California,United States,F,F
+Garibaldi Thohir,Q19725813,Q4614,University of Southern California,United States,F,F
+M. Sarbini,Q12495707,Q10862512,Military Academy (Akmil),Indonesia,F,T
+A.M. Hendropriyono,Q4666027,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Hari Sabarno,Q12485293,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Agus Harimurti Yudhoyono,Q7805962,Q10862512,Military Academy (Akmil),Indonesia,F,T
+E.E. Mangindaan,Q13092889,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Sjafrie Sjamsoeddin,Q12515621,Q10862512,Military Academy (Akmil),Indonesia,F,T
+M. Ma'ruf,Q11042774,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Mardiyanto,Q3502316,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Andika Perkasa,Q18421241,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Muhammad Herindra,Q16180843,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Wiranto,Q731740,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Amir Machmud,Q4252072,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Edi Sudradjat,Q1284477,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Soegiarto,Q25453071,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Feisal Tanjung,Q12482854,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Ida Bagus Sudjana,Q12486239,Q10862512,Military Academy (Akmil),Indonesia,F,T
+R. Hartono,Q12507527,Q10862512,Military Academy (Akmil),Indonesia,F,T
+T.B. Silalahi,Q12518388,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Yogie Suardi Memet,Q12525261,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Soerjadi Soedirdja,Q13097203,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Syarwan Hamid,Q12518364,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Yunus Yosfiah,Q12499392,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Endrarto Sutarto,Q120202161,Q10862512,Military Academy (Akmil),Indonesia,F,T
+M. Setyo Sularso,Q16188456,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Maruli Simanjuntak,Q19728927,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Theo Syafei,Q17411512,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Kunto Arief Wibowo,Q61119148,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Iman Budiman,Q56399498,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Ida Bagus Purwalaksana,Q25468361,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Erwin Sudjono,Q16176328,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Danang Prasetyo Wibowo,Q120203401,Q10862512,Military Academy (Akmil),Indonesia,F,T
+Soeyono,Q18421428,Q10862512,Military Academy (Akmil),Indonesia,F,T
+P.C. Harjasudirdja,Q25463109,Q189022,Imperial College London,United Kingdom,F,F
+Poempida Hidayatulloh,Q12505908,Q189022,Imperial College London,United Kingdom,F,F
+Rusmin Nurjadin,Q12508816,Q12471193,Air Force Academy (AAU),Indonesia,F,T
+Hadi Tjahjanto,Q25469937,Q12471193,Air Force Academy (AAU),Indonesia,F,T
+Maroef Sjamsoeddin,Q19739210,Q12471193,Air Force Academy (AAU),Indonesia,F,T
+Danang Hadiwibowo,Q110102784,Q12471193,Air Force Academy (AAU),Indonesia,F,T
+Lulu Lugiyati,Q25469688,Q12471193,Air Force Academy (AAU),Indonesia,F,T
+Deni Hasoloan Simanjuntak,Q97189867,Q12471193,Air Force Academy (AAU),Indonesia,F,T
+Kisenda Wiranata,Q49255734,Q12471193,Air Force Academy (AAU),Indonesia,F,T
+Soeharto,Q44819,E1,KNIL NCO School,Indonesia (Dutch),F,T
+Soeharto,Q44819,Q3180139,Defenders of the Homeland (PETA),Indonesia (Japan),F,T
+Soemantri Brodjonegoro,Q12517348,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Hatta Rajasa,Q4201732,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Purnomo Yusgiantoro,Q4251398,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Bambang Susantono,Q12473898,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Fadel Muhammad,Q5429207,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Hermanto Dardak,Q12485601,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Jero Wacik,Q4200552,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Kuntoro Mangkusubroto,Q12492968,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Lukita Dinarsyah Tuwo,Q12495549,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Suharna Surapranata,Q5247068,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Susilo Siswoutomo,Q17411489,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Aburizal Bakrie,Q336042,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Rachmat Witoelar,Q7279546,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Arifin Tasrif,Q12472460,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Budi Gunadi Sadikin,Q85989277,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Nezar Patria,Q85993228,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Pramono Anung,Q12506342,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Sakti Wahyu Trenggono,Q73854259,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Arcandra Tahar,Q26236894,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Arief Yahya,Q17410392,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Rizal Ramli,Q12508773,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+A.R. Soehoed,Q12470435,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Ginandjar Kartasasmita,Q5562954,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Hartarto Sastrosoenarto,Q12485357,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Suyono Sosrodarsono,Q109430737,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Azwar Anas,Q4833142,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Sarwono Kusumaatmadja,Q13096807,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Siswono Yudo Husodo,Q13097173,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Haryanto Dhanutirto,Q12485374,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Budhi Muliawan Suyitno,Q61118263,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Rozik Boedioro Soetjipto,Q12508963,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Bambang Subianto,Q12473895,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Muslimin Nasution,Q12499712,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Taufan Soekarnoputra,Q64623726,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Nazarudin Kiemas,Q17410844,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Eddie Lembong,Q25464398,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Hasyim Wahid,Q56392155,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Jezzie Setiawan,Q67203340,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Fariz Rustam Munaf,Q4262957,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Adrin Kahar,Q16163751,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Soedjana Sapi'ie,Q17411273,Q1579397,Bandung Institute of Technology (ITB),Indonesia,F,F
+Soemantri Brodjonegoro,Q12517348,Q752663,Delft University of Technology,Netherlands,F,F
+Wardiman Djojonegoro,Q17410498,Q752663,Delft University of Technology,Netherlands,F,F
+Soerachman Tjokroadisoerjo,Q12502557,Q752663,Delft University of Technology,Netherlands,F,F
+Thoyib Hadiwidjaja,Q12521372,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Bungaran Saragih,Q12477889,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Rokhmin Dahuri,Q17410470,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Susilo Bambang Yudhoyono,Q57405,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Bayu Krisnamurthi,Q12475456,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Edhie Baskoro Yudhoyono,Q7806029,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Mustafa Abubakar,Q468390,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Rusman Heriawan,Q17411148,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Suswono,Q5247112,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Adhyaksa Dault,Q4682572,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Andung A. Nitimiharja,Q12472069,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Anton Apriantono,Q4775650,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+MS Kaban,Q12495710,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Siti Nurbaya Bakar,Q18421248,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Franky Sibarani,Q19745824,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Hasjrul Harahap,Q12485409,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Sjarifuddin Baharsjah,Q12515630,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Justika Baharsjah,Q12488227,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Alirahman,Q12471513,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Bomer Pasaribu,Q12476886,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Nur Mahmudi Ismail,Q7069993,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Prijadi Praptosuhardjo,Q17410941,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Soleh Solahudin,Q12515831,Q2306715,Bogor Institute of Agriculture (IPB),Indonesia,F,F
+Ide Anak Agung Gde Agung,Q981536,Q221653,Utrecht University,Netherlands,F,F
+Iskandar Tedjasukmana,Q97373847,Q49115,Cornell University,United States,F,F
+Fasli Jalal,Q12482800,Q49115,Cornell University,United States,F,F
+Suahasil Nazara,Q77195503,Q49115,Cornell University,United States,F,F
+Justika Baharsjah,Q12488227,Q49115,Cornell University,United States,F,F
+Kurnianingrat,Q114882718,Q49115,Cornell University,United States,F,F
+Muhammad Ilyas,Q659028,Q1165608,Darul Ulum Deoband,India,F,F
+Sumitro Djojohadikusumo,Q7553510,Q209842,Sorbonne University,France,F,F
+Ahmad Yani,Q2992817,Q7428928,Hollandsch-Inlandsche School (Dutch School for Natives),Indonesia (Dutch),F,F
+Ahmad Yani,Q2992817,Q2190504,MULO (Dutch Indies Middle School System),Indonesia (Dutch),F,F
+Ahmad Yani,Q2992817,Q590879,Fort Leavenworth,United States,F,T
+Soemarno Sosroatmodjo,Q13097202,Q3181122,Padjadjaran University,Indonesia,F,F
+Mohamad Suleman Hidayat,Q4258719,Q3181122,Padjadjaran University,Indonesia,F,F
+Patrialis Akbar,Q5247076,Q3181122,Padjadjaran University,Indonesia,F,F
+Sapta Nirwandar,Q12512140,Q3181122,Padjadjaran University,Indonesia,F,F
+Fahmi Idris,Q5429568,Q3181122,Padjadjaran University,Indonesia,F,F
+Jusuf Anwar,Q11213140,Q3181122,Padjadjaran University,Indonesia,F,F
+Edhy Prabowo,Q72086432,Q3181122,Padjadjaran University,Indonesia,F,F
+Paiman Raharjo,Q120907654,Q3181122,Padjadjaran University,Indonesia,F,F
+Pramono Anung,Q12506342,Q3181122,Padjadjaran University,Indonesia,F,F
+Arief Yahya,Q17410392,Q3181122,Padjadjaran University,Indonesia,F,F
+Ferry Mursyidan Baldan,Q12482887,Q3181122,Padjadjaran University,Indonesia,F,F
+Imam Nahrawi,Q18342562,Q3181122,Padjadjaran University,Indonesia,F,F
+Yuddy Chrisnandi,Q18421258,Q3181122,Padjadjaran University,Indonesia,F,F
+Sunawar Sukowati,Q24284586,Q3181122,Padjadjaran University,Indonesia,F,F
+Mochtar Kusumaatmadja,Q4200159,Q3181122,Padjadjaran University,Indonesia,F,F
+Bustanil Arifin,Q5002099,Q3181122,Padjadjaran University,Indonesia,F,F
+Muladi,Q49250207,Q3181122,Padjadjaran University,Indonesia,F,F
+Burhanuddin Abdullah,Q12478007,Q3181122,Padjadjaran University,Indonesia,F,F
+Hidayat Jaelani,Q12485643,Q3181122,Padjadjaran University,Indonesia,F,F
+Payung Bangun (akademisi),Q119279354,Q3181122,Padjadjaran University,Indonesia,F,F
+Wahidin Halim,Q17411648,Q3181122,Padjadjaran University,Indonesia,F,F
+Annisa Pohan,Q7806784,Q3181122,Padjadjaran University,Indonesia,F,F
+Yeni Fatmawati,Q97193039,Q3181122,Padjadjaran University,Indonesia,F,F
+Fahira Idris,Q12482713,Q3181122,Padjadjaran University,Indonesia,F,F
+Dewi Asmara,Q123337918,Q3181122,Padjadjaran University,Indonesia,F,F
+Marcella Zalianty,Q12496916,Q3181122,Padjadjaran University,Indonesia,F,F
+Soemarno Sosroatmodjo,Q13097202,Q29052,Vanderbilt University,United States,F,F
+Jusuf Anwar,Q11213140,Q29052,Vanderbilt University,United States,F,F
+Syahril Sabirin,Q7659442,Q29052,Vanderbilt University,United States,F,F
+Syarif Thayeb,Q17411574,Q13371,Harvard University,United States,F,F
+Hassan Wirajuda,Q183581,Q13371,Harvard University,United States,F,F
+Endang Rahayu Sedyaningsih,Q469616,Q13371,Harvard University,United States,F,F
+Gita Wirjawan,Q5247132,Q13371,Harvard University,United States,F,F
+Thomas Trikasih Lembong,Q25462546,Q13371,Harvard University,United States,F,F
+Saadillah Mursjid,Q12511367,Q13371,Harvard University,United States,F,F
+Sjahrir (ekonom),Q7659441,Q13371,Harvard University,United States,F,F
+Abdul Malik Fadjar,Q11109918,Q12486124,IAIN Sunan Ampel,Indonesia,F,F
+Dahlan Iskan,Q4252078,Q12486124,IAIN Sunan Ampel,Indonesia,F,F
+Ida Fauziyah,Q17410595,Q12486124,IAIN Sunan Ampel,Indonesia,F,F
+Imam Nahrawi,Q18342562,Q12486124,IAIN Sunan Ampel,Indonesia,F,F
+Achmad Sujudi,Q13091459,Q734764,University of New South Wales,Australia,F,F
+Hermanto Dardak,Q12485601,Q734764,University of New South Wales,Australia,F,F
+Angela Tanoesoedibjo,Q72242032,Q734764,University of New South Wales,Australia,F,F
+Emil Dardak,Q21828089,Q734764,University of New South Wales,Australia,F,F
+Jessica Tanoesoedibjo,Q72242117,Q734764,University of New South Wales,Australia,F,F
+Agum Gumelar,Q4694586,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Susilo Bambang Yudhoyono,Q57405,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Agus Suhartono,Q4258745,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Bambang Hendarso Danuri,Q4260011,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Djoko Santoso,Q4196055,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Djoko Suyanto,Q4016590,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Marciano Norman,Q6757170,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Moeldoko,Q12498731,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Sudi Silalahi,Q13097278,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Sutanto,Q7649900,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Sutarman,Q12518235,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Timur Pradopo,Q4209594,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Endriartono Sutarto,Q5361867,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Budi Gunawan,Q12477379,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Luhut Binsar Panjaitan,Q14917375,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Prabowo Subianto,Q2107268,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Badrodin Haiti,Q12473234,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Gatot Nurmantyo,Q12483575,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Ryamizard Ryacudu,Q7419814,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Tedjo Edhy Purdijatno,Q12520259,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Adi Prabawa,Q49251230,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Iwan Sulandjana,Q16184069,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Pramono Edhie Wibowo,Q7238276,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Hendardji Soepandji,Q5713108,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Tubagus Hasanuddin,Q18421463,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Hadi Utomo,Q16179383,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Hotmangaraja Panjaitan,Q16181539,Q12471222,Academy for the Armed Forces of Indonesia (Akabri),Indonesia,F,T
+Alimarwan Hanan,Q17410558,Q4200297,Sriwijaya University,Indonesia,F,F
+Taufiq Kiemas,Q4201140,Q4200297,Sriwijaya University,Indonesia,F,F
+Giri Ramanda Kiemas,Q56399362,Q4200297,Sriwijaya University,Indonesia,F,F
+Bachtiar Chamsyah,Q4838924,Q12523376,Medan Area University,Indonesia,F,F
+Bambang Kesowo,Q12473890,Q49122,Harvard Law School,United States,F,F
+Boediono,Q76362,Q1517021,University of Western Australia,Australia,F,F
+Boediono,Q76362,Q598841,Monash University,Australia,F,F
+Mahendra Siregar,Q12496110,Q598841,Monash University,Australia,F,F
+Airlangga Hartarto,Q12471140,Q598841,Monash University,Australia,F,F
+Boediono,Q76362,Q49117,University of Pennsylvania,United States,F,F
+Dorodjatun Kuntjoro-Jakti,Q5298156,Q168756,"University of California, Berkeley",United States,F,F
+Mohamad Prakosa,Q12498747,Q168756,"University of California, Berkeley",United States,F,F
+Emil Salim,Q4187311,Q168756,"University of California, Berkeley",United States,F,F
+Widjojo Nitisastro,Q4261785,Q168756,"University of California, Berkeley",United States,F,F
+Payung Bangun (akademisi),Q119279354,Q168756,"University of California, Berkeley",United States,F,F
+Hamzah Haz,Q76344,Q7683446,Tanjungpura University,Indonesia,F,F
+Manuel Kaisiepo,Q12496803,Q7894418,National University (UNAS),Indonesia,F,F
+Saifullah Yusuf,Q12511505,Q7894418,National University (UNAS),Indonesia,F,F
+Agus Suparmanto,Q72087658,Q7894418,National University (UNAS),Indonesia,F,F
+Saiful Rahmat Dasuki,Q121237544,Q7894418,National University (UNAS),Indonesia,F,F
+Hanif Dhakiri,Q17410774,Q7894418,National University (UNAS),Indonesia,F,F
+Manuel Kaisiepo,Q12496803,Q7894412,Christian University of Indonesia (UKI),Indonesia,F,F
+Agung Laksono,Q2581141,Q7894412,Christian University of Indonesia (UKI),Indonesia,F,F
+Kristiani Herrawati,Q4200758,Q7894412,Christian University of Indonesia (UKI),Indonesia,F,F
+Subiakto Tjakrawerdaya,Q18421453,Q7894412,Christian University of Indonesia (UKI),Indonesia,F,F
+Marzuki Darusman,Q6781884,Q14091635,Catholic University of Parahyangan (Unpar),Indonesia,F,F
+Ilham Aidit,Q65208264,Q14091635,Catholic University of Parahyangan (Unpar),Indonesia,F,F
+Achmad Hafisz Tohir,Q96989460,Q14091635,Catholic University of Parahyangan (Unpar),Indonesia,F,F
+Purnomo Yusgiantoro,Q4251398,Q1206658,University of Colorado,United States,F,F
+Purnomo Yusgiantoro,Q4251398,Q12494364,National Resilience Institute,Indonesia,F,F
+Tjahjo Kumolo,Q12521725,Q12494364,National Resilience Institute,Indonesia,F,F
+Rini Mariani Soemarno Soewandi,Q6856490,Q49205,Wellesley College,United States,F,F
+Said Agil Husin Al Munawar,Q12511497,Q1141959,Islamic University of Medina,Saudi Arabia,F,F
+Salim Segaf Al-Jufri,Q12511651,Q1141959,Islamic University of Medina,Saudi Arabia,F,F
+Said Agil Husin Al Munawar,Q12511497,Q3133606,Umm Al-Qura University,Saudi Arabia,F,F
+Soenarno,Q12515766,Q4250919,Malang State University ,Indonesia,F,F
+Abdul Halim Iskandar,Q72061441,Q4250919,Malang State University ,Indonesia,F,F
+Muhadjir Effendy,Q26236935,Q4250919,Malang State University ,Indonesia,F,F
+Yusril Ihza Mahendra,Q8061915,Q1973130,University of Science Malaysia,Malaysia,F,F
+Nezar Patria,Q85993228,Q1973130,University of Science Malaysia,Malaysia,F,F
+Mohamad Nasir,Q18421366,Q1973130,University of Science Malaysia,Malaysia,F,F
+Abdoel Halim,Q2978474,Q25464143,Geneeskundige Hoogeschool te Batavia (Batavia Medical School),Indonesia (Dutch),F,F
+Agus Harimurti Yudhoyono,Q7805962,Q7686944,Taruna Nusantara High School,Indonesia,F,F
+Agus Harimurti Yudhoyono,Q7805962,Q721064,Nanyang Institute of Technology,Singapore,F,F
+Edhie Baskoro Yudhoyono,Q7806029,Q721064,Nanyang Institute of Technology,Singapore,F,F
+Tito Karnavian,Q12521705,Q721064,Nanyang Institute of Technology,Singapore,F,F
+Alex Retraubun,Q12471445,Q7896071,Pattimura University,Indonesia,F,F
+Alex Retraubun,Q12471445,Q869756,University of Newcastle,Australia,F,F
+Yohana Yembise,Q18421480,Q869756,University of Newcastle,Australia,F,F
+Armida Alisjahbana,Q4259192,Q219563,University of Washington,United States,F,F
+Balthasar Kambuaya,Q12473858,Q3130435,Cenderawasih University,Indonesia,F,F
+John Wempi Wetipo,Q25465726,Q3130435,Cenderawasih University,Indonesia,F,F
+Yohana Yembise,Q18421480,Q3130435,Cenderawasih University,Indonesia,F,F
+Balthasar Kambuaya,Q12473858,Q1336952,Brawijaya University,Indonesia,F,F
+Mohammad Lukman Edy,Q12499367,Q1336952,Brawijaya University,Indonesia,F,F
+Balthasar Kambuaya,Q12473858,Q458393,Durham University,United Kingdom,F,F
+Balthasar Kambuaya,Q12473858,Q478044,Hasanuddin University,Indonesia,F,F
+Hamid Awaluddin,Q4055319,Q478044,Hasanuddin University,Indonesia,F,F
+Mohammad Andi Mattalatta,Q12498756,Q478044,Hasanuddin University,Indonesia,F,F
+Syahrul Yasin Limpo,Q10860301,Q478044,Hasanuddin University,Indonesia,F,F
+Amran Sulaiman,Q19752868,Q478044,Hasanuddin University,Indonesia,F,F
+Tanri Abeng,Q13097746,Q478044,Hasanuddin University,Indonesia,F,F
+Baharuddin Lopa,Q4842491,Q478044,Hasanuddin University,Indonesia,F,F
+Basri Hasanuddin,Q12474898,Q478044,Hasanuddin University,Indonesia,F,F
+Adnan Purichta Ichsan,Q65212430,Q478044,Hasanuddin University,Indonesia,F,F
+Andi Sudirman Sulaiman,Q49252587,Q478044,Hasanuddin University,Indonesia,F,F
+Ready Kambo,Q120202604,Q478044,Hasanuddin University,Indonesia,F,F
+Umar Shihab,Q56524376,Q478044,Hasanuddin University,Indonesia,F,F
+Ahmad Nizar Shihab,Q56511458,Q478044,Hasanuddin University,Indonesia,F,F
+Bambang Brodjonegoro,Q16169810,Q457281,"University of Illinois, Urbana-Champaign",United States,F,F
+Sri Mulyani Indrawati,Q3177708,Q457281,"University of Illinois, Urbana-Champaign",United States,F,F
+Suahasil Nazara,Q77195503,Q457281,"University of Illinois, Urbana-Champaign",United States,F,F
+Dino Patti Djalal,Q12481562,Q1041737,Carleton University,Canada,F,F
+Hary Tanoesoedibjo,Q12485373,Q1041737,Carleton University,Canada,F,F
+Liliana Tanoesoedibjo,Q15272197,Q1041737,Carleton University,Canada,F,F
+Bambang Rudijanto Tanoesoedibjo,Q121758668,Q1041737,Carleton University,Canada,F,F
+Dipo Alam,Q12481580,Q432637,George Washington University,United States,F,F
+Luhut Binsar Panjaitan,Q14917375,Q432637,George Washington University,United States,F,F
+Sandiaga Uno,Q7416335,Q432637,George Washington University,United States,F,F
+Sudirman Said,Q18421410,Q432637,George Washington University,United States,F,F
+Djan Faridz,Q5285224,Q7686915,Tarumanagara University (Untar),Indonesia,F,F
+Djoko Kirmanto,Q11182889,Q834678,UNESCO Institute for Water Education,Netherlands,F,F
+Fasli Jalal,Q12482800,Q280361,Andalas University,Indonesia,F,F
+Gamawan Fauzi,Q5519592,Q280361,Andalas University,Indonesia,F,F
+Asman Abnur,Q12472657,Q280361,Andalas University,Indonesia,F,F
+Djohari Kahar,Q19725425,Q280361,Andalas University,Indonesia,F,F
+Freddy Numberi,Q4200601,Q12471192,Naval Academy,Indonesia,F,T
+Widodo A. S.,Q4902218,Q12471192,Naval Academy,Indonesia,F,T
+Yudo Margono,Q49252573,Q12471192,Naval Academy,Indonesia,F,T
+Iskandar Sitompul,Q16183738,Q12471192,Naval Academy,Indonesia,F,T
+Suprianto Irawan,Q25469550,Q12471192,Naval Academy,Indonesia,F,T
+Junus Effendi Habibie,Q16187445,Q12471192,Naval Academy,Indonesia,F,T
+Gamawan Fauzi,Q5519592,Q7603634,Padang State University,Indonesia,F,F
+Gamawan Fauzi,Q5519592,Q19751985,Institute of Home Affairs Government,Indonesia,F,F
+Ida Fauziyah,Q17410595,Q19751985,Institute of Home Affairs Government,Indonesia,F,F
+Zainudin Amali,Q72061950,Q19751985,Institute of Home Affairs Government,Indonesia,F,F
+Gusti Muhammad Hatta,Q12484988,Q1896627,Lambung Mangkurat University,Indonesia,F,F
+Helmy Faishal Zaini,Q12485528,Q12523315,Darul Ulum University,Indonesia,F,F
+Helmy Faishal Zaini,Q12485528,Q12523423,Paramadina University,Indonesia,F,F
+Moreno Soeprapto,Q1279930,Q12523423,Paramadina University,Indonesia,F,F
+Hendarman Supandji,Q4264975,Q4200627,Diponegoro University,Indonesia,F,F
+Wardana,Q12524096,Q4200627,Diponegoro University,Indonesia,F,F
+Tjahjo Kumolo,Q12521725,Q4200627,Diponegoro University,Indonesia,F,F
+Mohamad Nasir,Q18421366,Q4200627,Diponegoro University,Indonesia,F,F
+Muladi,Q49250207,Q4200627,Diponegoro University,Indonesia,F,F
+Baharuddin Lopa,Q4842491,Q4200627,Diponegoro University,Indonesia,F,F
+Kristiani Herrawati,Q4200758,Q7894421,Indonesia Open University,Indonesia,F,F
+Linda Amalia Sari,Q12494918,Q7894421,Indonesia Open University,Indonesia,F,F
+Wiranto,Q731740,Q7894421,Indonesia Open University,Indonesia,F,F
+Kunto Arief Wibowo,Q61119148,Q7894421,Indonesia Open University,Indonesia,F,F
+Kuntoro Mangkusubroto,Q12492968,Q41506,Stanford University,United States,F,F
+Lukman Hakim Saifuddin,Q16188358,Q12523337,As-Syafiiyah Islamic University,Indonesia,F,F
+Fahmi Idris,Q5429568,Q12523337,As-Syafiiyah Islamic University,Indonesia,F,F
+Mari Elka Pangestu,Q3502322,Q127990,Australian National University,Australia,F,F
+Marty Natalegawa,Q58290,Q127990,Australian National University,Australia,F,F
+Muhammad Chatib Basri,Q12499347,Q127990,Australian National University,Australia,F,F
+Mari Elka Pangestu,Q3502322,Q129421,"University of California, Davis",United States,F,F
+Marty Natalegawa,Q58290,Q174570,London School of Economics,United Kingdom,F,F
+Juwono Sudarsono,Q3107476,Q174570,London School of Economics,United Kingdom,F,F
+Andi Widjajanto,Q19745525,Q174570,London School of Economics,United Kingdom,F,F
+Muhaimin Iskandar,Q12499327,Q1494353,Airlangga University,Indonesia,F,F
+Triyono Wibowo,Q17411670,Q1494353,Airlangga University,Indonesia,F,F
+Muhadjir Effendy,Q26236935,Q1494353,Airlangga University,Indonesia,F,F
+Terawan Agus Putranto,Q72040942,Q1494353,Airlangga University,Indonesia,F,F
+Asman Abnur,Q12472657,Q1494353,Airlangga University,Indonesia,F,F
+Ignasius Jonan,Q16182287,Q1494353,Airlangga University,Indonesia,F,F
+Khofifah Indar Parawansa,Q12491600,Q1494353,Airlangga University,Indonesia,F,F
+Tarmizi Taher,Q12520011,Q1494353,Airlangga University,Indonesia,F,F
+Ida Bagus Oka,Q5986944,Q1494353,Airlangga University,Indonesia,F,F
+Muhammad Lutfi,Q12499368,Q217741,Purdue University,United States,F,F
+Nasaruddin Umar,Q6966619,Q12522872,UIN Alauddin Makassar,Indonesia,F,F
+Idrus Marham,Q16773556,Q12522872,UIN Alauddin Makassar,Indonesia,F,F
+Umar Shihab,Q56524376,Q12522872,UIN Alauddin Makassar,Indonesia,F,F
+Nasaruddin Umar,Q6966619,Q12523349,UIN Syarif Hidayatullah Jakarta,Indonesia,F,F
+Raja Juli Antoni,Q25464379,Q12523349,UIN Syarif Hidayatullah Jakarta,Indonesia,F,F
+Tuty Alawiyah,Q12522830,Q12523349,UIN Syarif Hidayatullah Jakarta,Indonesia,F,F
+Nasaruddin Umar,Q6966619,Q201492,McGill University,Canada,F,F
+Nasaruddin Umar,Q6966619,Q546118,University of Paris-Sorbonne,France,F,F
+Patrialis Akbar,Q5247076,Q12523390,Muhammadiyah University Jakarta,Indonesia,F,F
+Rusman Heriawan,Q17411148,Q12513092,STIS Statistics Polytechnic,Indonesia,F,F
+Haryono Suyono,Q12485379,Q12513092,STIS Statistics Polytechnic,Indonesia,F,F
+Sapta Nirwandar,Q12512140,Q999763,University of Paris 1 Pantheon-Sorbonne,France,F,F
+Sapta Nirwandar,Q12512140,Q273579,Ecole nationale d'administration,France,F,F
+Syarief Hasan,Q12518358,Q12523435,Persada Indonesia University YAI,Indonesia,F,F
+Harvick Hasnul Qolbi,Q109563840,Q12523435,Persada Indonesia University YAI,Indonesia,F,F
+Wiendu Nuryanti,Q12524514,Q7896624,University of Wisconsin,United States,F,F
+Zulkifli Hasan,Q4260406,Q12523366,Krisnadwipayana University,Indonesia,F,F
+Yudo Margono,Q49252573,Q12523366,Krisnadwipayana University,Indonesia,F,F
+Saleh Husin,Q19745898,Q12523366,Krisnadwipayana University,Indonesia,F,F
+Abdul Latief (pengusaha),Q4665497,Q12523366,Krisnadwipayana University,Indonesia,F,F
+Adhyaksa Dault,Q4682572,Q4250926,Trisakti University,Indonesia,F,F
+Paundrakarna,Q12503831,Q4250926,Trisakti University,Indonesia,F,F
+Harley B. Mangindaan,Q25459745,Q4250926,Trisakti University,Indonesia,F,F
+Medina Latief Harjani,Q17410712,Q4250926,Trisakti University,Indonesia,F,F
+Ahmad Syawqi,Q56417055,Q4250926,Trisakti University,Indonesia,F,F
+Bambang Sudibyo,Q11120678,Q192334,University of North Carolina at Chapel Hill,United States,F,F
+Da'i Bachtiar,Q5207158,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Ari Dono Sukmanto,Q16167882,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Idham Azis,Q12486250,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Listyo Sigit Prabowo,Q28723955,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Tito Karnavian,Q12521705,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Syafruddin (polisi),Q85994840,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Adi Vivid Agustiadi Bachtiar,Q61118258,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Novel Baswedan,Q49251670,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Firman Santyabudi,Q16177287,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Bambang Purwanto,Q31174747,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Andi Sinjaya Ghalib,Q109432685,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Surojo Bimantoro,Q12518152,Q17997867,Police Academy (Akpol),Indonesia,F,T
+Fahmi Idris,Q5429568,Q12712165,Jakarta State University,Indonesia,F,F
+Abdullah Azwar Anas,Q16162595,Q12712165,Jakarta State University,Indonesia,F,F
+Wiranto,Q731740,Q12712165,Jakarta State University,Indonesia,F,F
+Zainudin Hasan,Q25466566,Q12712165,Jakarta State University,Indonesia,F,F
+Ipuk Fiestiandani,Q109438116,Q12712165,Jakarta State University,Indonesia,F,F
+Aliyah Rasyid,Q56416545,Q12712165,Jakarta State University,Indonesia,F,F
+MS Kaban,Q12495710,Q12523355,Jayabaya University,Indonesia,F,F
+Hanna Gayatri,Q96989463,Q12523355,Jayabaya University,Indonesia,F,F
+Iskandar (politikus),Q120260356,Q12523355,Jayabaya University,Indonesia,F,F
+Abdul Halim Iskandar,Q72061441,Q12523418,Yogyakarta State University,Indonesia,F,F
+Afriansyah Noor,Q108889808,Q12486653,National Institute of Science and Technology,Indonesia,F,F
+Airlangga Hartarto,Q12471140,Q319078,University of Melbourne,Australia,F,F
+Angela Tanoesoedibjo,Q72242032,Q1145731,University of Technology Sydney,Australia,F,F
+Basuki Hadimuljono,Q18421298,Q1111640,Colorado State University,United States,F,F
+Anies Baswedan,Q4263230,Q1191344,Northern Illinois University,United States,F,F
+Mardiasmo,Q19728875,Q1055874,University of Bridgeport,United States,F,F
+Arifin M Siregar,Q12472462,Q168426,University of Muenster,Germany,F,F
+Budi Djiwandono,Q65209610,Q1095773,Clark University,United States,F,F
+Fery Farhati,Q97221150,Q1191344,Northern Illinois University,United States,F,F
+Dante Saksono Harbuwono,Q102147956,Q1152050,Yamanashi University,Japan,F,F
+Edhy Prabowo,Q72086432,Q600107,Swiss German University,Indonesia,F,F
+Harvick Hasnul Qolbi,Q109563840,Q12510564,"High School Number 3, Jakarta",Indonesia,F,F
+Fariz Rustam Munaf,Q4262957,Q12510564,"High School Number 3, Jakarta",Indonesia,F,F
+I Gusti Ayu Bintang Darmawati,Q72117992,Q1573634,Udayana University,Indonesia,F,F
+Ida Fauziyah,Q17410595,Q12523455,Satyagama University,Indonesia,F,F
+Saiful Rahmat Dasuki,Q121237544,Q12523455,Satyagama University,Indonesia,F,F
+Zainut Tauhid Sa'adi,Q17411758,Q12523455,Satyagama University,Indonesia,F,F
+Wahidin Halim,Q17411648,Q12523455,Satyagama University,Indonesia,F,F
+Iriana,Q17410605,Q4259201,Muhammadiyah University Surakarta,Indonesia,F,F
+Johnny G. Plate,Q72119052,Q2308020,Atma Jaya University,Indonesia,F,F
+Ersa Mayori,Q13092934,Q2308020,Atma Jaya University,Indonesia,F,F
+Mahfud MD,Q6892160,Q350752,Islamic University of Indonesia,Indonesia,F,F
+Marwan Ja'far,Q17410695,Q350752,Islamic University of Indonesia,Indonesia,F,F
+Ridho Rahmadi,Q107061358,Q350752,Islamic University of Indonesia,Indonesia,F,F
+Muhadjir Effendy,Q26236935,Q14917501,State Islamic University of Malang,Indonesia,F,F
+Nadiem Makarim,Q25464675,Q49126,Harvard Business School,United States,F,F
+Nadiem Makarim,Q25464675,Q49114,Brown University,United States,F,F
+Nezar Patria,Q85993228,Q170027,University of London,United Kingdom,F,F
+Andi Widjajanto,Q19745525,Q170027,University of London,United Kingdom,F,F
+Paiman Raharjo,Q120907654,Q12523440,Moestopo University,Indonesia,F,F
+Pratikno,Q12506406,Q223429,University of Birmingham,United Kingdom,F,F
+Mardiasmo,Q19728875,Q223429,University of Birmingham,United Kingdom,F,F
+Pratikno,Q12506406,Q15575,Flinders University,Australia,F,F
+Raja Juli Antoni,Q25464379,Q954035,Bradford University,United Kingdom,F,F
+Raja Juli Antoni,Q25464379,Q866012,University of Queensland,Australia,F,F
+ST Burhanuddin,Q83236699,Q109437486,General Sudirman University Faculty of Law,Indonesia,F,F
+ST Burhanuddin,Q83236699,Q28954262,17 August 1945 University Semarang,Indonesia,F,F
+Sandiaga Uno,Q7416335,Q1847733,Pelita Harapan University (UPH),Indonesia,F,F
+Zita Anjani,Q31173248,Q1847733,Pelita Harapan University (UPH),Indonesia,F,F
+Paulus Pandjaitan,Q106462747,Q1847733,Pelita Harapan University (UPH),Indonesia,F,F
+Marcella Zalianty,Q12496916,Q1847733,Pelita Harapan University (UPH),Indonesia,F,F
+Olivia Zalianty,Q13095505,Q1847733,Pelita Harapan University (UPH),Indonesia,F,F
+Terawan Agus Putranto,Q72040942,Q19732676,Indonesia National Army Career Soldier Officer School,Indonesia,F,T
+Paulus Pandjaitan,Q106462747,Q19732676,Indonesia National Army Career Soldier Officer School,Indonesia,F,T
+Teten Masduki,Q12521107,Q3213529,Indonesia University of Education,Indonesia,F,F
+Enggartiasto Lukita,Q19943079,Q3213529,Indonesia University of Education,Indonesia,F,F
+Aliyah Rasyid,Q56416545,Q3213529,Indonesia University of Education,Indonesia,F,F
+Tito Karnavian,Q12521705,Q1414861,University of Exeter,United Kingdom,F,F
+Jezzie Setiawan,Q67203340,Q1414861,University of Exeter,United Kingdom,F,F
+Yasonna Laoly,Q12525045,Q4200341,University of North Sumatra,Indonesia,F,F
+Bomer Pasaribu,Q12476886,Q4200341,University of North Sumatra,Indonesia,F,F
+Panangian Siregar,Q12502407,Q4200341,University of North Sumatra,Indonesia,F,F
+Panusunan Pasaribu,Q104597648,Q4200341,University of North Sumatra,Indonesia,F,F
+Dolly Putra Parlindungan Pasaribu,Q105764924,Q4200341,University of North Sumatra,Indonesia,F,F
+Anies Baswedan,Q4263230,Q503415,University of Maryland,United States,F,F
+Arcandra Tahar,Q26236894,Q12510519,"High School Number 2, Padang",Indonesia,F,F
+Arcandra Tahar,Q26236894,Q49212,Texas A&M University,United States,F,F
+Hanif Dhakiri,Q17410774,Q11223593,IAIN Walisongo,Indonesia,F,F
+Idrus Marham,Q16773556,Q11223593,IAIN Walisongo,Indonesia,F,F
+Marwan Ja'far,Q17410695,Q19745825,Gajayana University,Indonesia,F,F
+Marwan Ja'far,Q17410695,Q1444125,State University of Malaysia,Malaysia,F,F
+Muhammad Prasetyo,Q19747237,Q6482697,University of Lampung,Indonesia,F,F
+Rizal Ramli,Q12508773,Q1153094,Sophia University,Japan,F,F
+Rizal Ramli,Q12508773,Q49110,Boston University,United States,F,F
+Soedradjad Djiwandono,Q6107118,Q49110,Boston University,United States,F,F
+Sudirman Said,Q18421410,Q6026203,Indonesia State College of Accountancy,Indonesia,F,F
+Alamsyah Ratu Perwiranegara,Q12471383,Q9268449,Giyugun,Indonesia (Japan),F,T
+Ali Said,Q12471492,Q105845483,Military Law College (PTHM),Indonesia,F,T
+B. J. Habibie,Q76156,Q19752990,University of Indonesia Bandung,Indonesia,F,F
+B. J. Habibie,Q76156,Q273263,RWTH Aachen University,Germany,F,F
+Wardiman Djojonegoro,Q17410498,Q273263,RWTH Aachen University,Germany,F,F
+Surono Reksodimedjo,Q12518151,Q3180139,Defenders of the Homeland (PETA),Indonesia (Japan),F,T
+Poniman,Q12506187,Q3180139,Defenders of the Homeland (PETA),Indonesia (Japan),F,T
+Musannif Ryacudu,Q19943867,Q3180139,Defenders of the Homeland (PETA),Indonesia (Japan),F,T
+Sugandhi Kartosubroto,Q85909299,Q3180139,Defenders of the Homeland (PETA),Indonesia (Japan),F,T
+Fuad Hassan (politikus),Q699041,Q180865,University of Toronto,Canada,F,F
+Ginandjar Kartasasmita,Q5562954,Q1301275,Tokyo University of Agriculture and Technology,Japan,F,F
+Ginandjar Kartasasmita,Q5562954,Q12494360,Institute of State Administration,Indonesia,F,F
+Ginandjar Kartasasmita,Q5562954,Q19752726,Air Force Command and Staff College,Indonesia,F,T
+Adrianus Mooy,Q12470772,Q838330,"University of Wisconsin, Madison",United States,F,F
+Soedradjad Djiwandono,Q6107118,Q838330,"University of Wisconsin, Madison",United States,F,F
+Sjarifuddin Baharsjah,Q12515630,Q1360303,University of Kentucky,United States,F,F
+Justika Baharsjah,Q12488227,Q1360303,University of Kentucky,United States,F,F
+Abdul Latief (pengusaha),Q4665497,Q12471221,APP Polytechnic Jakarta,Indonesia,F,F
+Haryono Suyono,Q12485379,Q12510621,"High School Number 4, Yogyakarta",Indonesia,F,F
+Haryono Suyono,Q12485379,Q131252,University of Chicago,United States,F,F
+Amien Rais,Q2202270,Q131252,University of Chicago,United States,F,F
+Ilham Akbar Habibie,Q19726132,Q131252,University of Chicago,United States,F,F
+Ibrahim Hasan,Q12486201,Q617433,Syracuse University,United States,F,F
+Syahril Sabirin,Q7659442,Q49166,Williams College,United States,F,F
+Faried Anfasa Moeloek,Q13092954,Q193727,Johns Hopkins University,United States,F,F
+Ravindra Airlangga,Q115049138,Q193727,Johns Hopkins University,United States,F,F
+Thomas Djiwandono,Q65210174,Q193727,Johns Hopkins University,United States,F,F
+Fuad Bawazier,Q12483133,Q19734661,"High School Number 1, Cilacap",Indonesia,F,F
+Alexander Sonny Keraf,Q12471454,Q12513061,Driyarkara College of Philosophy,Indonesia,F,F
+Alexander Sonny Keraf,Q12471454,Q644789,Catholic University of Leuven,Belgium,F,F
+Bambang Subianto,Q12473895,Q644789,Catholic University of Leuven,Belgium,F,F
+Amien Rais,Q2202270,Q12523348,UIN Sunan Kalijaga,Indonesia,F,F
+Djohan Effendi,Q11196055,Q12523348,UIN Sunan Kalijaga,Indonesia,F,F
+Mochamad Hanies Cholil Barro,Q110103050,Q12523348,UIN Sunan Kalijaga,Indonesia,F,F
+Amien Rais,Q2202270,Q178848,University of Notre Dame,United States,F,F
+Burhanuddin Abdullah,Q12478007,Q270222,Michigan State University,United States,F,F
+Hasballah M. Saad,Q5678668,Q3958218,Syiah Kuala University,Indonesia,F,F
+Inayah Wulandari,Q64824904,Q11194560,"University of Indonesia, Faculty of Humanities",Indonesia,F,F
+Marzuki Usman,Q12497198,Q168751,Duke University,United States,F,F
+Solihin Kalla,Q7804479,Q168751,Duke University,United States,F,F
+Muhammad A.S. Hikam,Q16181301,Q217439,University of Hawaii,United States,F,F
+Ryaas Rasyid,Q12509222,Q217439,University of Hawaii,United States,F,F
+Muhammad Tholchah Hasan,Q12499390,Q13098259,Universitas Merdeka Malang,Indonesia,F,F
+Rozik Boedioro Soetjipto,Q12508963,Q833670,Katholieke Universiteit Leuven,Belgium,F,F
+Yahya Muhaimin,Q4250945,Q49108,Massachusetts Institute of Technology,United States,F,F
+Ki Hadjar Dewantara,Q1815982,Q1890262,Europeesche Lagere School (Dutch Indies Elementary School System),Indonesia (Dutch),F,F
+Oto Iskandar di Nata,Q7108909,Q7428928,Hollandsch-Inlandsche School (Dutch School for Natives),Indonesia (Dutch),F,F
+Ilham Akbar Habibie,Q19726132,Q157808,Technical University of Munich,Germany,F,F
+Rasjidi,Q12508128,Q109431501,Madrasah Muallimin Muhammadiyah Yogyakarta,Indonesia ,T,F
+Rasjidi,Q12508128,Q194445,University of Cairo,Egypt,F,F
+Muhammad Sjafei,Q12499383,Q2629623,Kweekschool (Dutch Indies Teachers' School),Indonesia (Dutch),F,F
+Mohammad Nasrun,Q57540093,Q156598,Leiden University,Netherlands,F,F
+Oemar Said Tjokroaminoto,Q2603591,Q12501424,OSVIA (School for the Training of Native Civil Servants),Indonesia (Dutch),F,F
+Kaharudin Datuk Rangkayo Basa,Q12488464,Q12501424,OSVIA (School for the Training of Native Civil Servants),Indonesia (Dutch),F,F
+Anwar Usman,Q24261467,Q14933725,Jakarta Islamic University,Indonesia,F,F
+Gemala Hatta,Q25467900,Q12510758,Santa Ursula High School,Indonesia,F,F
+Halida Hatta,Q12485129,Q609375,Japan International University,Japan,F,F
+Taufan Soekarnoputra,Q64623726,Q815352,California State University,United States,F,F
+Azrul Ananda,Q17410415,Q815352,California State University,United States,F,F
+Paundrakarna,Q12503831,Q12471207,Indonesia Academy of Communication,Indonesia,F,F
+T.B. Simatupang,Q4806383,Q523553,Royal Netherlands East Indies Army (KNIL),Indonesia (Dutch),F,T
+Muhammad Iqbal (politisi),Q17410777,Q19749142,Pancasila University,Indonesia,F,F
+Muhammad Iqbal (politisi),Q17410777,Q1141452,University of Western Sydney,Australia,F,F
+Mufidah Jusuf Kalla,Q7804233,Q12523408,Indonesia Muslim University,Indonesia,F,F
+Pramono Edhie Wibowo,Q7238276,Q12513038,Indonesian Army Command and General Staff College,Indonesia,F,T
+Pramono Edhie Wibowo,Q7238276,Q19732682,Indonesian National Army Command and Staff College,Indonesia,F,T
+Hartanto Edhie Wibowo,Q12485356,Q861888,Oregan State University,United States,F,F
+Indrata Nur Bayuaji,Q109430785,Q12511290,Malang College of Foreign Languages (STIBA),Indonesia,F,F
+Dave Laksono,Q120202073,Q14917504,Indonesia Defense University,Indonesia,F,F
+Andi Rizal Mallarangeng,Q7339075,Q309331,Ohio State University,United States,F,F
+Harley B. Mangindaan,Q25459745,Q7408055,Sam Ratulangi University,Indonesia,F,F
+Arumi Bachsin,Q12472561,Q19726445,IAIN Tulungagung,Indonesia,F,F
+Emil Dardak,Q21828089,Q1133142,Ritsumeikan Asia Pacific University,Japan,F,F
+Zeke Khaseli,Q106977528,Q615873,University of Seattle,United States,F,F
+Zeke Khaseli,Q106977528,Q1006950,Film Academy of New York,United States,F,F
+Inggrid Kansil,Q16187552,Q12486647,Jakarta Institute of Political and Social Science,Indonesia,F,F
+Helmi Hasan,Q25466119,Q7481592,University of Bengkulu,Indonesia,F,F
+Zita Anjani,Q31173248,Q193196,University College London,United Kingdom,F,F
+Anindya Bakrie,Q12472166,Q309350,Northwestern University,United States,F,F
+Abdurrahman Shihab,Q55766298,Q18206727,Jamiat Kheir,Indonesia (Dutch),F,F
+Najwa Shihab,Q4273048,Q12510656,"High School Number 6, Jakarta",Indonesia,F,F
+Nina Agustina,Q106878555,Q12523428,"National Development University ""Veteran"" Jakarta",Indonesia,F,F
+Raissa Anggiani,Q109429993,Q12523428,"National Development University ""Veteran"" Jakarta",Indonesia,F,F
+Fahrina Fahmi Idris,Q16176665,Q2002520,University of the West of England,United Kingdom,F,F
+Jessica Tanoesoedibjo,Q72242117,Q864450,Biola University,United States,F,F
+Jessica Tanoesoedibjo,Q72242117,Q741082,Macquarie University,Australia,F,F
+Iis Rosita Dewi,Q96987535,Q30266547,Trilogi University,Indonesia,F,F
+Selvi Ananda,Q98969839,Q19752275,"High School Number 1, Surakarta",Indonesia,F,F
+Selvi Ananda,Q98969839,Q97811535,AUB College of Economics,Indonesia,F,F
+I Gusti Ngurah Jaya Negara,Q102984055,Q12523434,National University of Education,Indonesia,F,F
+Erina Sofia Gudono,Q115677770,Q49088,Columbia University,United States,F,F
+Sherina Munaf,Q5262511,Q4273422,British School Jakarta,Indonesia,F,F
+Sherina Munaf,Q5262511,Q487556,University of Sydney,Australia,F,F
+Roosdinal Salim,Q17411117,Q1472358,University of Houston,United States,F,F
+Makiko Tanaka,Q465217,Q274486,Waseda University,Japan,F,F
+Tuti Marini Puspowardojo,Q19749103,Q3217284,Hogere Burgerschool (Dutch Secondary School System),Indonesia (Dutch),F,F
+Alwin Arifin,Q17998029,Q117876,Pepperdine University,United States,F,F
+Medina Latief Harjani,Q17410712,Q6551169,Lincoln University,United States,F,F
+Ahmad Nizar Shihab,Q56511458,Q12510611,"High School Number 4, Makassar",Indonesia,F,F
+Ahmad Hanafi Rais,Q16164615,Q738236,National University of Singapore,Singapore,F,F
+Panusunan Pasaribu,Q104597648,Q7415523,Sanata Dharma University,Indonesia,F,F
+Asnawi Bahar,Q16168725,Q19744761,Bung Hatta University,Indonesia,F,F
+Nazyra C. Noer,Q106450297,Q3806225,Jakarta Institute of Arts,Indonesia,F,F
+Naoki Tanaka,Q212373,Q815432,Keio University,Japan,F,F
+Shanti L. Poesposoetjipto,Q12514091,Q157808,Technical University of Munich,Germany,F,F
+El Rumi,Q16164536,Q1247544,University of Westminster,United Kingdom,F,F
+Rommy Sulastyo,Q108522104,Q12511301,Perbanas College of Economics Jakarta,Indonesia,F,F
+Miriam Budiardjo,Q12498605,Q333886,Georgetown University,United States,F,F
+Soe Hok Gie,Q2277434,Q1824905,Kolese Kanisius,Indonesia,F,F
+Mulan Jameela,Q3234938,Q20427716,Kebangsaan University,Indonesia,F,F

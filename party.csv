@@ -1,0 +1,496 @@
+person,personid,party_id,party
+Abikusno Tjokrosujoso,Q4667741,Q4200848,Indonesian Sarikat Islam Party
+Djody Gondokusumo,Q109430802,Q4314852,National People's Party
+Guruh Soekarnoputra,Q4264069,Q2084109,Indonesia Democratic Party (PDI)
+Guruh Soekarnoputra,Q4264069,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Iskak Tjokroadisurjo,Q56392413,Q1965221,Indonesian National Party (PNI)
+Joko Widodo,Q3318231,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Lie Kiat Teng,Q12494804,Q4200848,Indonesian Sarikat Islam Party
+Ma'ruf Amin,Q12497177,F1,Independent
+Masjkur,Q12497345,Q686441,Nahdlatul Ulama
+Megawati Soekarnoputri,Q76179,Q2084109,Indonesia Democratic Party (PDI)
+Megawati Soekarnoputri,Q76179,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Mohammad Hatta,Q29050,F1,Independent
+Mohammad Yamin,Q3503054,Q19730387,Indonesian Party
+Mohammad Yamin,Q3503054,Q110413286,Indonesian People's Movement
+R. Sunarjo,Q85993732,Q2669302,United Development Party (PPP)
+Rachmawati Soekarnoputri,Q12507600,Q7196857,Pioneers' Party
+Rachmawati Soekarnoputri,Q12507600,Q4207219,NasDem Party
+Rachmawati Soekarnoputri,Q12507600,Q4261459,Gerindra Party
+Soedibjo,Q17411444,Q4200848,Indonesian Sarikat Islam Party
+Soekarno,Q76127,Q1965221,Indonesian National Party (PNI)
+Sukmawati Soekarnoputri,Q12517042,Q4261536,Indonesian National Marhaenist Party
+Sunario Sastrowardoyo,Q4446092,Q1965221,Indonesian National Party (PNI)
+Sutan Muchtar Abidin,Q12518231,Q116299110,Labor Party (1998)
+Dahlan Ibrahim,Q12480685,Q12503305,Indonesian Independence Supporters Movement Party
+Eny Karim,Q16044649,Q1965221,Indonesian National Party (PNI)
+Handrianus Sinaga,Q28723855,Q4200847,Indonesian Christian Party (Parkindo)
+Idham Chalid,Q6854752,Q2579297,Masyumi Party
+Idham Chalid,Q6854752,Q686441,Nahdlatul Ulama
+Idham Chalid,Q6854752,Q2669302,United Development Party (PPP)
+Jusuf Wibisono,Q6854709,Q2579297,Masyumi Party
+Moeljatno,Q6890147,Q2579297,Masyumi Party
+Rusli Abdul Wahid,Q12509202,Q12505151,Tarbiyah Islamiyah Union
+Rusli Abdul Wahid,Q12509202,Q2669302,United Development Party (PPP)
+AA Maramis,Q12682432,Q1965221,Indonesian National Party (PNI)
+Amir Sjarifuddin,Q1810083,Q204699,Indonesian Socialist Party (PSI)
+Anwaruddin,Q4778076,Q4200848,Indonesian Sarikat Islam Party
+IJ Kasimo,Q13534328,Q5053222,Indonesia Catholic Party
+J. Leimena,Q2642883,Q4200847,Indonesian Christian Party (Parkindo)
+SK Trimurti,Q7387595,Q19730387,Indonesian Party
+SK Trimurti,Q7387595,Q4203019,Indonesia Labor Party
+Sjahbudin Latif,Q12515622,Q4200848,Indonesian Sarikat Islam Party
+Susanto Tirtoprodjo,Q6723714,Q1965221,Indonesian National Party (PNI)
+Susanto Tirtoprodjo,Q6723714,Q12503307,Great Indonesia Party
+Wikana,Q19944523,Q157744,Indonesian Communist Party (PKI)
+Wilopo,Q2091244,Q1965221,Indonesian National Party (PNI)
+Anwar Tjokroaminoto,Q84836232,Q4200848,Indonesian Sarikat Islam Party
+R. Syamsudin,Q17410975,Q12503307,Great Indonesia Party
+R. Syamsudin,Q17410975,Q2579297,Masyumi Party
+Adam Malik,Q76297,Q4260843,Murba Party
+Adam Malik,Q76297,Q1536552,Golkar Party
+Albert Mangaratua Tambunan,Q24284585,Q4200847,Indonesian Christian Party (Parkindo)
+Frans Seda,Q981547,Q2084109,Indonesia Democratic Party (PDI)
+Frans Seda,Q981547,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+G.A. Siwabessy,Q5511990,F1,Independent
+Saifuddin Zuhri,Q14404735,Q2669302,United Development Party (PPP)
+Sanusi Hardjadinata,Q12512111,Q1965221,Indonesian National Party (PNI)
+Sanusi Hardjadinata,Q12512111,Q2084109,Indonesia Democratic Party (PDI)
+Soeharto,Q44819,Q1536552,Golkar Party
+Bambang Trihatmodjo,Q12473900,Q1536552,Golkar Party
+Bambang Trihatmodjo,Q12473900,Q31173603,Beringin Karya Party
+Hutomo Mandala Putra,Q3177695,Q56393560,Indonesian People's Voice Party
+Muhammad Dahlan,Q12499346,Q686441,Nahdlatul Ulama
+Sigit Harjojudanto,Q12514651,Q31173603,Beringin Karya Party
+Siti Hardijanti Rukmana,Q7531876,Q1536552,Golkar Party
+Siti Hardijanti Rukmana,Q7531876,Q5158454,Karya Peduli Bangsa Party
+Siti Hardijanti Rukmana,Q7531876,Q31173603,Berkarya Party
+Siti Hediati Hariyadi,Q12515517,Q4261459,Gerindra Party
+Siti Hutami Endang Adiningsih,Q20278519,Q31173603,Beringin Karya Party
+Thoyib Hadiwidjaja,Q12521372,F1,Independent
+Abdul Hakim Harahap,Q19942211,Q2579297,Masyumi Party
+Burhanuddin Harahap,Q2669297,Q2579297,Masyumi Party
+Frits Laoh,Q19746108,Q4314852,National People's Party
+Harsono Tjokroaminoto,Q18421456,Q4200848,Indonesian Sarikat Islam Party
+Iskandar Tedjasukmana,Q97373847,Q4203001,Labor Party (1949-1956)
+Lukman Wiriadinata,Q25461005,Q204699,Indonesian Socialist Party (PSI)
+Mohammad Sardjan,Q98785893,Q2579297,Masyumi Party
+Sjamsuddin Sutan Makmur,Q12515626,Q1965221,Indonesian National Party (PNI)
+Sumitro Djojohadikusumo,Q7553510,Q204699,Indonesian Socialist Party (PSI)
+Mananti Sitompul,Q109934104,Q4200847,Indonesian Christian Party (Parkindo)
+Sjafruddin Prawiranegara,Q4201482,Q2579297,Masyumi Party
+Sukiman Wirjosandjojo,Q289858,Q2579297,Masyumi Party
+Sukiman Wirjosandjojo,Q289858,Q2579297,Masyumi Party
+Azis Saleh,Q12470542,Q12503305,Indonesian Independence Supporters Movement Party
+Chaerul Saleh,Q5068118,Q1965221,Indonesian National Party (PNI)
+Gustaaf Adolf Maengkom,Q52868794,Q1965221,Indonesian National Party (PNI)
+Muhammad Wahib Wahab,Q14404607,Q686441,Nahdlatul Ulama
+Muljadi Djojomartono,Q19745785,Q2579297,Masyumi Party
+Prijono,Q4378323,Q4260843,Murba Party
+Subandrio,Q1306699,Q204699,Indonesian Socialist Party (PSI)
+Abdul Haris Nasution,Q317291,Q12503305,Indonesian Independence Supporters Movement Party
+Abdul Haris Nasution,Q317291,F1,Independent
+Achmad Sjaichu,Q65204588,Q686441,Nahdlatul Ulama
+Aminuddin Azis,Q120203095,Q686441,Nahdlatul Ulama
+Aminuddin Azis,Q120203095,Q2669302,United Development Party (PPP)
+Astrawinata,Q97196745,Q1965221,Indonesian National Party (PNI)
+D.N. Aidit,Q558979,Q157744,Indonesian Communist Party (PKI)
+Fatah Jasin,Q98985242,Q686441,Nahdlatul Ulama
+I Gusti Gde Subamia,Q97036710,Q1965221,Indonesian National Party (PNI)
+Rusiah Sardjono,Q12509201,F1,Independent
+Sartono,Q9333940,Q1965221,Indonesian National Party (PNI)
+Sartono,Q9333940,Q19730387,Indonesian Party
+Sartono,Q9333940,Q110413286,Indonesian People's Movement
+Setiadi Reksoprodjo,Q58924768,Q204699,Indonesian Socialist Party (PSI)
+Soemarno (ekonom),Q19752816,Q1965221,Indonesian National Party (PNI)
+Tumpal Dorianus Pardede,Q17411612,Q1965221,Indonesian National Party (PNI)
+W.J. Rumambi,Q12523754,Q4200847,Indonesian Christian Party (Parkindo)
+Ben Mang Reng Say,Q4886112,Q5053222,Indonesia Catholic Party
+Ben Mang Reng Say,Q4886112,Q2084109,Indonesia Democratic Party (PDI)
+Djamin Ginting,Q12481724,Q1536552,Golkar Party
+Melanchton Siregar,Q64758802,Q4200847,Indonesian Christian Party (Parkindo)
+Mohammad Isnaeni,Q12498762,Q1965221,Indonesian National Party (PNI)
+Mohammad Isnaeni,Q12498762,Q2084109,Indonesia Democratic Party (PDI)
+Osa Maliki,Q25462186,Q1965221,Indonesian National Party (PNI)
+A.M. Hendropriyono,Q4666027,Q13405290,Justice and Unity Party (PKP)
+Abdul Malik Fadjar,Q11109918,F1,Independent
+Alimarwan Hanan,Q17410558,Q2669302,United Development Party (PPP)
+Bachtiar Chamsyah,Q4838924,Q2669302,United Development Party (PPP)
+Boediono,Q76362,F1,Independent
+Hamzah Haz,Q76344,Q2669302,United Development Party (PPP)
+Hassan Wirajuda,Q183581,F1,Independent
+Hatta Rajasa,Q4201732,Q2434365,National Mandate Party (PAN)
+Jacob Nuwa Wea,Q11215759,Q2084109,Indonesia Democratic Party (PDI)
+Jacob Nuwa Wea,Q11215759,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Jusuf Kalla,Q76354,Q1536552,Golkar Party
+Laksamana Sukardi,Q12493537,Q2084109,Indonesia Democratic Party (PDI)
+Laksamana Sukardi,Q12493537,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Laksamana Sukardi,Q12493537,Q387768,Democracy and Reform Party
+Laksamana Sukardi,Q12493537,Q115754699,Nusantara Awakening Party
+Marzuki Darusman,Q6781884,Q1536552,Golkar Party
+Matori Abdul Djalil,Q12497539,Q1257317,National Awakening Party (PKB)
+Mohamad Prakosa,Q12498747,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Puan Maharani,Q15646541,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Rini Mariani Soemarno Soewandi,Q6856490,F1,Independent
+Rokhmin Dahuri,Q17410470,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Sri Redjeki Sumarjoto,Q17411470,Q1536552,Golkar Party
+Susilo Bambang Yudhoyono,Q57405,Q1186227,Democratic Party (PD)
+Syamsul Mu'arif,Q6684408,Q1536552,Golkar Party
+Syamsul Mu'arif,Q6684408,Q4207219,NasDem Party
+Taufiq Kiemas,Q4201140,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Yusril Ihza Mahendra,Q8061915,Q2915024,Moon and Star Party (PBB)
+Fakih Usman,Q5431566,Q2579297,Masyumi Party
+Tandiono Manu,Q109905042,Q204699,Indonesian Socialist Party (PSI)
+Wiwoho Purbohadidjojo,Q118287735,Q2579297,Masyumi Party
+Mohammad Natsir,Q2327343,Q2579297,Masyumi Party
+Mohammad Natsir,Q2327343,Q2579297,Masyumi Party
+Supeno,Q12518049,Q204699,Indonesian Socialist Party (PSI)
+Agung Laksono,Q2581141,Q1536552,Golkar Party
+Agus Harimurti Yudhoyono,Q7805962,Q1186227,Democratic Party (PD)
+Amir Syamsuddin,Q4016580,Q1186227,Democratic Party (PD)
+Andi Alfian Mallarangeng,Q11093005,Q1186227,Democratic Party (PD)
+Azwar Abubakar,Q4833145,Q2434365,National Mandate Party (PAN)
+Bambang Brodjonegoro,Q16169810,F1,Independent
+Bambang Susantono,Q12473898,F1,Independent
+Denny Indrayana,Q12481262,Q1186227,Democratic Party (PD)
+Djan Faridz,Q5285224,Q2669302,United Development Party (PPP)
+Djoko Santoso,Q4196055,Q4261459,Gerindra Party
+E.E. Mangindaan,Q13092889,Q1536552,Golkar Party
+E.E. Mangindaan,Q13092889,Q1186227,Democratic Party (PD)
+Edhie Baskoro Yudhoyono,Q7806029,Q1186227,Democratic Party (PD)
+Fadel Muhammad,Q5429207,Q1536552,Golkar Party
+Gamawan Fauzi,Q5519592,F1,Independent
+Helmy Faishal Zaini,Q12485528,Q1257317,National Awakening Party (PKB)
+Jero Wacik,Q4200552,Q1186227,Democratic Party (PD)
+Lukman Hakim Saifuddin,Q16188358,Q2669302,United Development Party (PPP)
+Moeldoko,Q12498731,Q4262041,Hanura Party
+Moeldoko,Q12498731,F1,Independent
+Muhaimin Iskandar,Q12499327,Q1257317,National Awakening Party (PKB)
+Nila Djuwita Anfasa Moeloek,Q13095464,F1,Independent
+Patrialis Akbar,Q5247076,Q2434365,National Mandate Party (PAN)
+Roy Suryo,Q9019254,Q1186227,Democratic Party (PD)
+Salim Segaf Al-Jufri,Q12511651,Q1511101,Justice and Prosperity Party (PKS)
+Sharif Cicip Sutarjo,Q19798851,Q1536552,Golkar Party
+Sjafrie Sjamsoeddin,Q12515621,Q4261459,Gerindra Party
+Sri Mulyani Indrawati,Q3177708,F1,Independent
+Suharna Surapranata,Q5247068,Q1511101,Justice and Prosperity Party (PKS)
+Suharso Monoarfa,Q12516581,Q2669302,United Development Party (PPP)
+Suryadharma Ali,Q983372,Q2669302,United Development Party (PPP)
+Suswono,Q5247112,Q1511101,Justice and Prosperity Party (PKS)
+Syarief Hasan,Q12518358,Q1186227,Democratic Party (PD)
+Tifatul Sembiring,Q4250974,Q1511101,Justice and Prosperity Party (PKS)
+Zulkifli Hasan,Q4260406,Q2434365,National Mandate Party (PAN)
+Aburizal Bakrie,Q336042,Q1536552,Golkar Party
+Adhyaksa Dault,Q4682572,F1,Independent
+Alwi Shihab,Q2840640,Q1257317,National Awakening Party (PKB)
+Anton Apriantono,Q4775650,Q1511101,Justice and Prosperity Party (PKS)
+Bambang Sudibyo,Q11120678,Q2434365,National Mandate Party (PAN)
+Endriartono Sutarto,Q5361867,Q4207219,NasDem Party
+Erman Soeparno,Q11066107,Q1257317,National Awakening Party (PKB)
+Fahmi Idris,Q5429568,Q1536552,Golkar Party
+Juwono Sudarsono,Q3107476,F1,Independent
+MS Kaban,Q12495710,Q2915024,Moon and Star Party (PBB)
+MS Kaban,Q12495710,Q106255756,Ummah Party
+Mardiyanto,Q3502316,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Meuthia Hatta Swasono,Q11081076,Q13405290,Justice and Unity Party (PKP)
+Mohammad Andi Mattalatta,Q12498756,Q1536552,Golkar Party
+Mohammad Lukman Edy,Q12499367,Q1257317,National Awakening Party (PKB)
+Muhammad Yusuf Asy'ari,Q12499394,Q1511101,Justice and Prosperity Party (PKS)
+Rachmat Witoelar,Q7279546,F1,Independent
+Saifullah Yusuf,Q12511505,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Saifullah Yusuf,Q12511505,Q1257317,National Awakening Party (PKB)
+Soegiharto,Q17411404,F1,Independent
+Sofyan Djalil,Q12515797,F1,Independent
+Abdul Halim Iskandar,Q72061441,Q1257317,National Awakening Party (PKB)
+Abdullah Azwar Anas,Q16162595,Q1257317,National Awakening Party (PKB)
+Abdullah Azwar Anas,Q16162595,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Afriansyah Noor,Q108889808,Q2915024,Moon and Star Party (PBB)
+Agus Gumiwang Kartasasmita,Q12470931,Q1536552,Golkar Party
+Agus Suparmanto,Q72087658,Q1257317,National Awakening Party (PKB)
+Airlangga Hartarto,Q12471140,Q1536552,Golkar Party
+Angela Tanoesoedibjo,Q72242032,Q19752495,Indonesian Unity Party
+Arifin Tasrif,Q12472460,F1,Independent
+Bahlil Lahadalia,Q65204620,Q1536552,Golkar Party
+Bahlil Lahadalia,Q65204620,F1,Independent
+Budi Arie Setiadi,Q56416296,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Budi Karya Sumadi,Q28723650,F1,Independent
+Dito Ariotedjo,Q65208154,Q1536552,Golkar Party
+Edhy Prabowo,Q72086432,Q1536552,Golkar Party
+Erick Thohir,Q5388188,F1,Independent
+Gibran Rakabuming,Q18342893,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Gibran Rakabuming,Q18342893,F1,Independent
+Harvick Hasnul Qolbi,Q109563840,F1,Independent
+I Gusti Ayu Bintang Darmawati,Q72117992,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Ida Fauziyah,Q17410595,Q1257317,National Awakening Party (PKB)
+Jerry Sambuaga,Q65212605,Q1536552,Golkar Party
+John Wempi Wetipo,Q25465726,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Johnny G. Plate,Q72119052,Q4207219,NasDem Party
+Juliari Batubara,Q72061436,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Kaesang Pangarep,Q18342896,Q23744654,Indonesia Solidarity Party 
+Karier Joko Widodo sebagai Gubernur DKI Jakarta,Q19745980,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Karier Joko Widodo sebagai Wali Kota Surakarta,Q19745981,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Luhut Binsar Panjaitan,Q14917375,Q1536552,Golkar Party
+Mahfud MD,Q6892160,F1,Independent
+Muhadjir Effendy,Q26236935,F1,Independent
+Nadiem Makarim,Q25464675,F1,Independent
+Prabowo Subianto,Q2107268,Q4261459,Gerindra Party
+Pramono Anung,Q12506342,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Pratikno,Q12506406,F1,Independent
+Raja Juli Antoni,Q25464379,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Raja Juli Antoni,Q25464379,Q23744654,Indonesia Solidarity Party 
+Retno Marsudi,Q18342668,F1,Independent
+Sakti Wahyu Trenggono,Q73854259,F1,Independent
+Sandiaga Uno,Q7416335,Q2669302,United Development Party (PPP)
+Siti Nurbaya Bakar,Q18421248,Q4207219,NasDem Party
+Suahasil Nazara,Q77195503,F1,Independent
+Surya Tjandra,Q72252049,Q4207219,NasDem Party
+Syahrul Yasin Limpo,Q10860301,Q4207219,NasDem Party
+Terawan Agus Putranto,Q72040942,F1,Independent
+Teten Masduki,Q12521107,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Tito Karnavian,Q12521705,F1,Independent
+Tjahjo Kumolo,Q12521725,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Wishnutama,Q12524647,F1,Independent
+Yaqut Cholil Qoumas,Q56391957,Q1257317,National Awakening Party (PKB)
+Yasonna Laoly,Q12525045,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Zainudin Amali,Q72061950,Q1536552,Golkar Party
+Zainut Tauhid Sa'adi,Q17411758,Q2669302,United Development Party (PPP)
+Abdurrahman Mohammad Fachir,Q4119908,F1,Independent
+Amran Sulaiman,Q19752868,F1,Independent
+Anak Agung Gede Ngurah Puspayoga,Q16166804,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Andi Widjajanto,Q19745525,F1,Independent
+Andrinof Chaniago,Q17410461,F1,Independent
+Arcandra Tahar,Q26236894,F1,Independent
+Arief Yahya,Q17410392,F1,Independent
+Asman Abnur,Q12472657,Q2434365,National Mandate Party (PAN)
+Darmin Nasution,Q4261409,F1,Independent
+Eko Putro Sandjojo,Q28723651,Q1257317,National Awakening Party (PKB)
+Enggartiasto Lukita,Q19943079,Q4207219,NasDem Party
+Ferry Mursyidan Baldan,Q12482887,Q1536552,Golkar Party
+Ferry Mursyidan Baldan,Q12482887,Q4207219,NasDem Party
+Franky Sibarani,Q19745824,F1,Independent
+Hanif Dhakiri,Q17410774,Q1257317,National Awakening Party (PKB)
+Idrus Marham,Q16773556,Q1536552,Golkar Party
+Ignasius Jonan,Q16182287,F1,Independent
+Imam Nahrawi,Q18342562,Q1257317,National Awakening Party (PKB)
+Indroyono Soesilo,Q18421427,F1,Independent
+Mardiasmo,Q19728875,F1,Independent
+Marwan Ja'far,Q17410695,Q1257317,National Awakening Party (PKB)
+Muhammad Prasetyo,Q19747237,Q4207219,NasDem Party
+Rachmad Gobel,Q12507596,Q4207219,NasDem Party
+Rudiantara,Q18421404,F1,Independent
+Ryamizard Ryacudu,Q7419814,F1,Independent
+Saleh Husin,Q19745898,Q4262041,Hanura Party
+Susi Pudjiastuti,Q17411488,F1,Independent
+Sutiyoso,Q7650060,Q4207219,NasDem Party
+Tedjo Edhy Purdijatno,Q12520259,Q4207219,NasDem Party
+Tedjo Edhy Purdijatno,Q12520259,Q31173603,Beringin Karya Party
+Thomas Trikasih Lembong,Q25462546,F1,Independent
+Triawan Munaf,Q19749051,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Yohana Yembise,Q18421480,F1,Independent
+Yuddy Chrisnandi,Q18421258,Q1536552,Golkar Party
+Yudi Latief,Q18421326,F1,Independent
+Fredericus Soetrisno Harjadi,Q65017720,Q5053222,Indonesia Catholic Party
+Ali Wardhana,Q13091528,Q1536552,Golkar Party
+Emil Salim,Q4187311,Q1536552,Golkar Party
+Maraden Panggabean,Q4343894,Q1536552,Golkar Party
+Soedharmono,Q76317,Q1536552,Golkar Party
+Sunawar Sukowati,Q24284586,Q2084109,Indonesia Democratic Party (PDI)
+Sunawar Sukowati,Q24284586,Q1965221,Indonesian National Party (PNI)
+Widjojo Nitisastro,Q4261785,Q1536552,Golkar Party
+Mochtar Kusumaatmadja,Q4200159,Q1536552,Golkar Party
+Tanaka Kakuei,Q297644,Q232595,Liberal Democratic Party (Japan)
+Abdul Gafur (politikus),Q12470547,Q1536552,Golkar Party
+Achmad Affandi,Q85988394,Q1536552,Golkar Party
+B. J. Habibie,Q76156,Q1536552,Golkar Party
+Cosmas Batubara,Q5173975,Q1536552,Golkar Party
+Harun Al-Rasjid Zain,Q12485364,Q1536552,Golkar Party
+Lasiyah Soetanto,Q12494020,Q1536552,Golkar Party
+Martono,Q13520165,Q1536552,Golkar Party
+Sapardjo,Q56400151,Q1536552,Golkar Party
+Fuad Hassan (politikus),Q699041,Q1536552,Golkar Party
+Ginandjar Kartasasmita,Q5562954,F1,Independent
+Harmoko,Q2092123,Q1536552,Golkar Party
+J.H. Hutasoit,Q31173751,Q1536552,Golkar Party
+Moerdiono,Q13095146,Q1536552,Golkar Party
+Moerdiono,Q13095146,Q4261459,Gerindra Party
+Nani Soedarsono,Q12500067,Q1536552,Golkar Party
+Sulasikin Murpratomo,Q12517288,Q1536552,Golkar Party
+Try Sutrisno,Q76333,Q1536552,Golkar Party
+Try Sutrisno,Q76333,Q13405290,Justice and Unity Party (PKP)
+Umar Wirahadikusumah,Q76306,Q1536552,Golkar Party
+Wardojo,Q14015234,Q1536552,Golkar Party
+Wardojo,Q14015234,Q1965221,Indonesian National Party (PNI)
+Akbar Tanjung,Q2581168,Q1536552,Golkar Party
+Sarwono Kusumaatmadja,Q13096807,F1,Independent
+Siswono Yudo Husodo,Q13097173,Q1536552,Golkar Party
+Siswono Yudo Husodo,Q13097173,Q4207219,NasDem Party
+Soedradjad Djiwandono,Q6107118,Q4261459,Gerindra Party
+Soesilo Soedarman,Q12515785,Q1536552,Golkar Party
+Endang Kusuma Inten Soeweno,Q56399199,Q1536552,Golkar Party
+Hayono Isman,Q5687116,Q4207219,NasDem Party
+R. Hartono,Q12507527,Q5158454,Karya Peduli Bangsa Party
+Subiakto Tjakrawerdaya,Q18421453,Q1257317,National Awakening Party (PKB)
+T.B. Silalahi,Q12518388,Q1186227,Democratic Party (PD)
+Wardiman Djojonegoro,Q17410498,F1,Independent
+Yogie Suardi Memet,Q12525261,Q1536552,Golkar Party
+Ary Mardjono,Q12472577,Q1536552,Golkar Party
+Ary Mardjono,Q12472577,Q5158454,Karya Peduli Bangsa Party
+Ary Mardjono,Q12472577,Q4262041,Hanura Party
+Fuad Bawazier,Q12483133,Q1536552,Golkar Party
+Fuad Bawazier,Q12483133,Q2434365,National Mandate Party (PAN)
+Fuad Bawazier,Q12483133,Q4262041,Hanura Party
+Fuad Bawazier,Q12483133,Q4261459,Gerindra Party
+Muladi,Q49250207,Q1536552,Golkar Party
+Theo L. Sambuaga,Q17411225,Q1536552,Golkar Party
+Abdurrahman Wahid,Q76167,Q1257317,National Awakening Party (PKB)
+Al Hilal Hamdi,Q12471353,Q2434365,National Mandate Party (PAN)
+Alexander Sonny Keraf,Q12471454,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Amien Rais,Q2202270,Q2434365,National Mandate Party (PAN)
+Amien Rais,Q2202270,Q106255756,Ummah Party
+Bomer Pasaribu,Q12476886,Q1536552,Golkar Party
+Burhanuddin Abdullah,Q12478007,Q4261459,Gerindra Party
+Erna Witoelar,Q12482565,F1,Independent
+Mahadi Sinambela,Q12496084,Q1536552,Golkar Party
+Muhammad A.S. Hikam,Q16181301,Q1257317,National Awakening Party (PKB)
+Muhammad A.S. Hikam,Q16181301,Q4262041,Hanura Party
+Muhammad Tholchah Hasan,Q12499390,Q1257317,National Awakening Party (PKB)
+Nur Mahmudi Ismail,Q7069993,Q1511101,Justice and Prosperity Party (PKS)
+Ryaas Rasyid,Q12509222,Q4261748,National Democratic Party
+Yenny Wahid,Q3572174,Q1257317,National Awakening Party (PKB)
+Yenny Wahid,Q3572174,Q13095791,New Indonesia People's Sovereignty Party
+Zarkasih Nur,Q17410863,Q2669302,United Development Party (PPP)
+Ki Hadjar Dewantara,Q1815982,Q6025143,Indische Partij
+Ki Hadjar Dewantara,Q1815982,Q2927561,Budi Utomo
+Samsi Sastrawidagda,Q19752694,Q1965221,Indonesian National Party (PNI)
+Adi Sasono,Q14932959,Q1136182,Independence Party
+Andi Ghalib,Q12472022,Q2669302,United Development Party (PPP)
+Soleh Solahudin,Q12515831,Q4207219,NasDem Party
+Syarwan Hamid,Q12518364,Q1536552,Golkar Party
+Syarwan Hamid,Q12518364,Q19752495,Indonesian Unity Party
+Yunus Yosfiah,Q12499392,Q4261459,Gerindra Party
+Arnold Mononutu,Q16168178,Q1965221,Indonesian National Party (PNI)
+Martinus Putuhena,Q12497163,Q4200847,Indonesian Christian Party (Parkindo)
+Soetan Sjahrir,Q2470857,Q204699,Indonesian Socialist Party (PSI)
+T.S.G. Mulia,Q12521841,Q4200847,Indonesian Christian Party (Parkindo)
+AR Baswedan,Q4666301,Q24948707,Indonesian Arab Union
+AR Baswedan,Q4666301,Q2579297,Masyumi Party
+Abdulmadjid Djojoadiningrat,Q61119002,Q204699,Indonesian Socialist Party (PSI)
+Abdulmadjid Djojoadiningrat,Q61119002,Q157744,Indonesian Communist Party (PKI)
+R. Mas Sewaka,Q12507530,Q12503307,Great Indonesia Party
+Ukar Bratakusumah,Q17410446,Q1965221,Indonesian National Party (PNI)
+Moekarto Notowidigdo,Q12498729,Q1965221,Indonesian National Party (PNI)
+Soemanang,Q19748424,Q1965221,Indonesian National Party (PNI)
+Oemar Said Tjokroaminoto,Q2603591,Q4200848,Indonesian Sarikat Islam Party
+Johnny Sitohang,Q17410631,Q1536552,Golkar Party
+Bobby Nasution,Q54200649,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Bobby Nasution,Q54200649,F1,Independent
+Halida Hatta,Q12485129,Q4261459,Gerindra Party
+Paundrakarna,Q12503831,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Melani Leimena Suharli,Q60330208,Q1186227,Democratic Party (PD)
+Sayuti Melik,Q7429323,Q1536552,Golkar Party
+Nelly Adam Malik,Q12500336,Q1536552,Golkar Party
+Hashim Djojohadikusumo,Q12485398,Q4261459,Gerindra Party
+Amelia Achmad Yani,Q19751265,Q6974869,National People's Concern Party
+Amelia Achmad Yani,Q19751265,Q4262041,Hanura Party
+Boy Sadikin,Q31173523,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Iwan Sulandjana,Q16184069,Q1186227,Democratic Party (PD)
+Rudolf Pardede,Q12508997,Q4261459,Gerindra Party
+Likas Tarigan,Q19728450,Q1536552,Golkar Party
+Diaz Hendropriyono,Q20278383,Q13405290,Justice and Unity Party (PKP)
+Fuad Amin Imron,Q19943268,Q4261459,Gerindra Party
+Virnie Ismail,Q11317184,Q2434365,National Mandate Party (PAN)
+Wahidin Halim,Q17411648,Q4207219,NasDem Party
+Abdul Syukur,Q109433339,Q1536552,Golkar Party
+Abdul Syukur,Q109433339,Q1186227,Democratic Party (PD)
+Hanna Gayatri,Q96989463,Q2434365,National Mandate Party (PAN)
+Iskandar (politikus),Q120260356,Q2434365,National Mandate Party (PAN)
+Achmad Hafisz Tohir,Q96989460,Q2434365,National Mandate Party (PAN)
+Moreno Soeprapto,Q1279930,Q4261459,Gerindra Party
+Pramono Edhie Wibowo,Q7238276,Q1186227,Democratic Party (PD)
+Hartanto Edhie Wibowo,Q12485356,Q1186227,Democratic Party (PD)
+Indrata Nur Bayuaji,Q109430785,Q1186227,Democratic Party (PD)
+Nazarudin Kiemas,Q17410844,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Dave Laksono,Q120202073,Q1536552,Golkar Party
+Andi Rizal Mallarangeng,Q7339075,Q1536552,Golkar Party
+Andika Pandu Puragabaya,Q85988763,Q4261459,Gerindra Party
+Ardhya Pratiwi Setiowati,Q96987556,Q4261459,Gerindra Party
+Arumi Bachsin,Q12472561,Q1186227,Democratic Party (PD)
+Emil Dardak,Q21828089,Q1186227,Democratic Party (PD)
+Ben Mboi,Q12475663,Q1536552,Golkar Party
+Nurhayati Effendi,Q96989175,Q2669302,United Development Party (PPP)
+Inggrid Kansil,Q16187552,Q1186227,Democratic Party (PD)
+Zainudin Hasan,Q25466566,Q2434365,National Mandate Party (PAN)
+Helmi Hasan,Q25466119,Q2434365,National Mandate Party (PAN)
+Zita Anjani,Q31173248,Q2434365,National Mandate Party (PAN)
+Abdurrahman Shihab,Q55766298,Q2579297,Masyumi Party
+Nina Agustina,Q106878555,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Poempida Hidayatulloh,Q12505908,Q1536552,Golkar Party
+Fahira Idris,Q12482713,F1,Independent
+Sudarsono Mangoenadikoesoemo,Q25471319,Q204699,Indonesian Socialist Party (PSI)
+Ipuk Fiestiandani,Q109438116,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Ravindra Airlangga,Q115049138,Q1536552,Golkar Party
+M. Setyo Sularso,Q16188456,Q1511101,Justice and Prosperity Party (PKS)
+Hary Tanoesoedibjo,Q12485373,Q19752495,Indonesian Unity Party
+Liliana Tanoesoedibjo,Q15272197,Q19752495,Indonesian Unity Party
+Jessica Tanoesoedibjo,Q72242117,Q19752495,Indonesian Unity Party
+Iis Rosita Dewi,Q96987535,Q4261459,Gerindra Party
+I Gusti Ngurah Jaya Negara,Q102984055,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Taufiq R. Abdullah,Q96986931,Q1257317,National Awakening Party (PKB)
+Soekardi,Q105427014,Q1536552,Golkar Party
+Aryo Djojohadikusumo,Q59656271,Q4261459,Gerindra Party
+Rahayu Saraswati,Q19731920,Q4261459,Gerindra Party
+Thomas Djiwandono,Q65210174,Q4261459,Gerindra Party
+Budi Djiwandono,Q65209610,Q4261459,Gerindra Party
+Hanindhito Himawan Pramana,Q107564265,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Tubagus Hasanuddin,Q18421463,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+M. Yasin Limpo,Q26818531,Q1536552,Golkar Party
+Ichsan Yasin Limpo,Q16182111,Q1536552,Golkar Party
+Adnan Purichta Ichsan,Q65212430,Q1186227,Democratic Party (PD)
+Adnan Purichta Ichsan,Q65212430,Q1536552,Golkar Party
+Cholil Bisri,Q12478642,Q1257317,National Awakening Party (PKB)
+Andi Sudirman Sulaiman,Q49252587,F1,Independent
+Theo Syafei,Q17411512,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Thayeb Mohammad Gobel,Q12521185,Q4200848,Indonesian Sarikat Islam Party
+Thayeb Mohammad Gobel,Q12521185,Q2669302,United Development Party (PPP)
+Lily Wahid,Q16188244,Q1257317,National Awakening Party (PKB)
+Lily Wahid,Q16188244,Q4262041,Hanura Party
+Ruhut Sitompul,Q4262592,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Makiko Tanaka,Q465217,Q232595,Liberal Democratic Party (Japan)
+Makiko Tanaka,Q465217,Q200314,Japanese Democratic Party
+Adi Putra Darmawan Tahir,Q17410349,Q1536552,Golkar Party
+Sundari Sukoco,Q4023145,Q1257317,National Awakening Party (PKB)
+Soewondo (dokter),Q109564312,Q2084109,Indonesia Democratic Party (PDI)
+Mas Isman,Q24284592,Q1536552,Golkar Party
+Dewi Asmara,Q123337918,Q1536552,Golkar Party
+Mohamad Hekal,Q109564145,Q4261459,Gerindra Party
+Umar Shihab,Q56524376,Q1536552,Golkar Party
+Ahmad Nizar Shihab,Q56511458,Q1186227,Democratic Party (PD)
+Ridho Rahmadi,Q107061358,Q106255756,Ummah Party
+Ahmad Hanafi Rais,Q16164615,Q2434365,National Mandate Party (PAN)
+Hanum Salsabiela Rais,Q7347498,Q2434365,National Mandate Party (PAN)
+Syahrul M Pasaribu,Q17411516,Q1536552,Golkar Party
+Gus Irawan Pasaribu,Q31174037,Q4261459,Gerindra Party
+Dolly Putra Parlindungan Pasaribu,Q105764924,Q4261459,Gerindra Party
+Putri Ayu Anisya,Q85993706,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Nur Azizah Tamhid,Q96989129,Q1511101,Justice and Prosperity Party (PKS)
+Asnawi Bahar,Q16168725,Q2434365,National Mandate Party (PAN)
+Endang Agustini Syarwan,Q16176076,Q1536552,Golkar Party
+Puti Guntur Soekarno,Q12507435,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Depriwanto Sitohang,Q109433358,Q1536552,Golkar Party
+Dahlan Hasan Nasution,Q25463766,Q4207219,NasDem Party
+Herry Lontung Siregar,Q12485608,Q4262041,Hanura Party
+Annisa Trihapsari,Q10956050,Q31173603,Beringin Karya Party
+Abdul Latif Amin Imron,Q107994307,Q2669302,United Development Party (PPP)
+Hadi Utomo,Q16179383,Q1186227,Democratic Party (PD)
+Giri Ramanda Kiemas,Q56399362,Q1186306,Indonesian Democratic Party of Struggle (PDI-P)
+Mochamad Hanies Cholil Barro,Q110103050,Q1257317,National Awakening Party (PKB)
+Djohari Kahar,Q19725425,Q1536552,Golkar Party
+Naoki Tanaka,Q212373,Q200314,Japanese Democratic Party
+Junus Effendi Habibie,Q16187445,Q1186227,Democratic Party (PD)
+Yetty Rizali Noor,Q12525244,Q1536552,Golkar Party
+Ahmad Syawqi,Q56417055,Q4261459,Gerindra Party
+Kisenda Wiranata,Q49255734,Q23744654,Indonesia Solidarity Party 
+Ahmad Dhani,Q4695305,Q4261459,Gerindra Party
+Ahmad Al Ghazali,Q16164465,Q4261459,Gerindra Party
+El Rumi,Q16164536,Q4261459,Gerindra Party
+Mulan Jameela,Q3234938,Q4261459,Gerindra Party
